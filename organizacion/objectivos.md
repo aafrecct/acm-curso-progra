@@ -1,6 +1,9 @@
-- comprensión de los objetivos de la asignatura
-- comprensión de la base de la programación
-- conocimientos de programación imperativa
-- conocimientos de java
+# Objectivos
+
+- trasmitir claramente los objetivos de la asignatura
+- dar una pincelada sobre la base de la programación
+- establecer conocimientos comunes de la programación imperativa
+- aplicar estos conocimientos a java
+- dar una idea
 
 

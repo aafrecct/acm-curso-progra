@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiCheckFill",
       "RiAncientGateFill",
       "RiListCheck",
       "RiApps2Fill",
-      "RiArrowUpLine",
-      "RiSlideshowFill"
+      "RiArrowUpLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,6 @@
   "razonamiento": "RiAncientGateFill",
   "contenido/indice.md": "RiListCheck",
   "organizacion": "RiLayout2Fill",
-  "organizacion/objectivos.md": "RiRocket2Fill"
+  "organizacion/objectivos.md": "RiRocket2Fill",
+  "organizacion/tracker.md": "RiCheckFill"
 }
