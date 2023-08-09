@@ -1,6 +1,6 @@
 # ¿Cómo funciona un ordenador?
 > [!NOTE]
-> El contenido de esta parte es una simplificación del contenido que se da en las asignaturas 'Estructura de Computadores' y 'Arquitectura de Computadores' que son asignaturas de segundo. Sin embargo solo cogemos las partes básicas y más relevantes para entender qué estamos haciendo cuando programamos exactamente._
+> El contenido de esta parte es una simplificación del contenido que se da en las asignaturas 'Estructura de Computadores' y 'Arquitectura de Computadores' que son asignaturas de segundo. Sin embargo solo cogemos las partes básicas y más relevantes para entender qué estamos haciendo cuando programamos exactamente.
 
 ---
 
@@ -26,4 +26,4 @@ Como es obvio, es muy complicado entender qué estamos haciendo cuando solo pode
 
 
 
-[[índice |Volver al índice]] | [[¿Por qué empezar desde cero? |¿Por qué es esto importante?]] | [[ensamblador|Siguiente lección]]
+[[indice|Volver al índice]] | [[razonamiento-introduccion|¿Por qué es esto importante?]] | [[ensamblador|Siguiente lección]]

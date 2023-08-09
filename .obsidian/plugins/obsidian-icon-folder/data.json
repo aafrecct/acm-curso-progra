@@ -22,10 +22,10 @@
     },
     "iconInTabsEnabled": false
   },
-  "organización": "RiLayout2Fill",
   "presentaciones": "RiSlideshowFill",
   "contenido": "RiApps2Fill",
-  "organización/objectivos.md": "RiRocket2Fill",
-  "contenido/índice.md": "RiListCheck",
-  "razonamiento": "RiAncientGateFill"
+  "razonamiento": "RiAncientGateFill",
+  "contenido/indice.md": "RiListCheck",
+  "organizacion": "RiLayout2Fill",
+  "organizacion/objectivos.md": "RiRocket2Fill"
 }

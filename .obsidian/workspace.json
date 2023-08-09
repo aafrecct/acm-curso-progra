@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "contenido/extra/comentarios.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "contenido/extra/comentarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "contenido/extra/comentarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "contenido/extra/comentarios.md"
               }
             }
           }
@@ -148,37 +148,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa3994e368060adb",
+  "active": "4db73974a449a9c9",
   "lastOpenFiles": [
-    "contenido/programación/cpu.md",
+    "contenido/extra/ejecucion.md",
+    "contenido/java/funciones.md",
+    "contenido/java/bucles.md",
+    "contenido/java/control_flujo.md",
+    "contenido/java/operadores.md",
+    "contenido/java/tipos.md",
+    "contenido/java/estructura.md",
+    "contenido/extra/buenas_practicas.md",
+    "contenido/programacion/errores.md",
+    "contenido/indice.md",
+    "contenido/extra/paradigmas.md",
+    "contenido/programacion/null.md",
+    "contenido/programacion/asignacion.md",
+    "contenido/programacion/tipos.md",
+    "contenido/programacion/funciones.md",
+    "contenido/programacion/bucles.md",
+    "contenido/programacion/coleciones.md",
+    "contenido/programacion/control_flujo.md",
+    "contenido/programacion/strings.md",
+    "contenido/programacion/numeros.md",
+    "contenido/programacion/compilar.md",
+    "contenido/programacion/ensamblador.md",
+    "contenido/programacion/cpu.md",
+    "razonamiento/razonamiento-introduccion.md",
+    "contenido/extra/comentarios.md",
     "readme.md",
-    "contenido/índice.md",
-    "contenido/programación/funciones.md",
-    "contenido/programación/bucles.md",
-    "contenido/programación/strings.md",
-    "contenido/programación/coleciones.md",
-    "contenido/programación/control_flujo.md",
-    "contenido/programación/numeros.md",
-    "contenido/programación/io.md",
-    "contenido/programación/compilar.md",
-    "contenido/programación/ensamblador.md",
-    "\"I/O básico\".md",
     "\"I",
-    "I/O básico 2.md",
-    "I/O básico 1.md",
-    "I/O básico.md",
     "I",
-    "razonamiento/¿Por qué empezar desde cero?.md",
     "contenido/extra",
     "contenido/java",
     "Untitled",
-    "¿Que es programar?.md",
-    "contenido/programación",
-    "contenido/¿Que es programar?.md",
-    "organización/objectivos.md",
+    "contenido/programacion",
     "razonamiento",
     "contenido",
-    "organization/tracking/finish gbrain.md",
     "presentaciones",
     "organization/tracking"
   ]
