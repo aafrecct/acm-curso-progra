@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "ef7d2ea813c3fd25",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa61b4dfc6e04c44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa3994e368060adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2ab2e2f7efe9daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ee8b32b408ec535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db73974a449a9c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4a3f72e0bfc8fc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82cf7fd4b93279c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "fc5d1528d49abbb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b89a7c576ef83469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51773e64310e612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85d288d0497ee296",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f5e32cc26912aea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c36396ffad8f7c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "aa3994e368060adb",
+  "lastOpenFiles": [
+    "contenido/programación/cpu.md",
+    "readme.md",
+    "contenido/índice.md",
+    "contenido/programación/funciones.md",
+    "contenido/programación/bucles.md",
+    "contenido/programación/strings.md",
+    "contenido/programación/coleciones.md",
+    "contenido/programación/control_flujo.md",
+    "contenido/programación/numeros.md",
+    "contenido/programación/io.md",
+    "contenido/programación/compilar.md",
+    "contenido/programación/ensamblador.md",
+    "\"I/O básico\".md",
+    "\"I",
+    "I/O básico 2.md",
+    "I/O básico 1.md",
+    "I/O básico.md",
+    "I",
+    "razonamiento/¿Por qué empezar desde cero?.md",
+    "contenido/extra",
+    "contenido/java",
+    "Untitled",
+    "¿Que es programar?.md",
+    "contenido/programación",
+    "contenido/¿Que es programar?.md",
+    "organización/objectivos.md",
+    "razonamiento",
+    "contenido",
+    "organization/tracking/finish gbrain.md",
+    "presentaciones",
+    "organization/tracking"
+  ]
+}
