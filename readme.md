@@ -4,7 +4,7 @@
 > Este repositorio es una 'vault' de [Obsidian](https://obsidian.md/) y puede ser mejor apreciado si se lee desde este programa.
 
 > [!WARNING]
-> Este curso **NO** esta completo por ahora, a pesar de que se presente como tal en este 'readme'. La intención es desarrollarlo hasta que se imparta al principio del curso 2023-2024. Para ver el estado de su desarrollo hay un [tracker](organizacion/tracker.md)
+> Este curso **NO** esta completo por ahora, a pesar de que se presente como tal en este 'readme'. La intención es desarrollarlo hasta que se imparta al principio del curso 2023-2024. Para ver el estado de su desarrollo hay un [tracker](/organizacion/tracker.md).
 
 Este cursillo pretende servir como una formación teórica completa equivalente al curso "Programación I" de la ETSIINF en la Universidad Politécnica de Madrid. La práctica necesaria se deja en manos del alumno o alumna, aunque la intención es ofrecer algún ejercicio como ejemplo que se pueda replicar y expandir.
 

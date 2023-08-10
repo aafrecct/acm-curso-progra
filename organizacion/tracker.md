@@ -1,13 +1,13 @@
 # ¿Que parte del contenido está terminada?
 
 
-- [ ] ¿Que es programar?
+- [x] ¿Que es programar?
 	- [x] [[cpu|¿Cómo funciona un ordenador?]]
 	- [x] [[ensamblador|Ensamblador]]
-	- [ ] [[compilar|¿Qué es compilar?]]
+	- [x] [[compilar|¿Qué es compilar?]]
 	
 - [ ] Elementos básicos de la programación imperativa
-	- [ ] [[numeros|Números y operadores]]
+	- [x] [[numeros|Números y operadores]]
 	- [ ] [[strings|Caracteres y "strings"]]
 	- [ ] [[io|Input y Output]]
 	- [ ] [[contenido/programacion/control_flujo|Condiciones]]

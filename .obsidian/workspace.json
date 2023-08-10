@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
+                "file": "organizacion/tracker.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "organizacion/tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "organizacion/tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "organizacion/tracker.md"
               }
             }
           }
@@ -149,20 +149,23 @@
   },
   "active": "233538c9e8733856",
   "lastOpenFiles": [
-    "organizacion/tracker.md",
-    "readme.md",
-    "contenido/indice.md",
     "contenido/programacion/compilar.md",
+    "organizacion/tracker.md",
+    "contenido/asignaturas/lfayc.md",
+    "contenido/asignaturas/pdl-tdl.md",
+    "contenido/programacion/ensamblador.md",
+    "contenido/programacion/cpu.md",
+    "contenido/indice.md",
+    "contenido/programacion/strings.md",
+    "contenido/programacion/numeros.md",
+    "readme.md",
+    "contenido/asignaturas/algnum.md",
+    "contenido/asignaturas/fisica.md",
+    "contenido/asignaturas/estru-arqui.md",
     "razonamiento/razonamiento-nim.md",
     "razonamiento/razonamiento-introduccion.md",
     "razonamiento/razonamiento-memoria.md",
-    "contenido/programacion/numeros.md",
-    "contenido/programacion/strings.md",
-    "contenido/programacion/ensamblador.md",
-    "contenido/programacion/cpu.md",
     "contenido/asignaturas/ssdig.md",
-    "contenido/asignaturas/fisica.md",
-    "contenido/asignaturas/estru-arqui.md",
     "organizacion/objectivos.md",
     "contenido/asignaturas",
     "contenido/extra/comentarios.md",
@@ -173,9 +176,6 @@
     "contenido/java/operadores.md",
     "contenido/java/tipos.md",
     "contenido/java/estructura.md",
-    "contenido/extra/buenas_practicas.md",
-    "contenido/programacion/errores.md",
-    "contenido/extra/paradigmas.md",
     "\"I",
     "I",
     "contenido/extra",
