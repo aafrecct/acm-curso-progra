@@ -8,7 +8,7 @@
 	
 - [ ] Elementos básicos de la programación imperativa
 	- [x] [[numeros|Números y operadores]]
-	- [ ] [[strings|Caracteres y "strings"]]
+	- [x] [[strings|Caracteres y "strings"]]
 	- [ ] [[io|Input y Output]]
 	- [ ] [[contenido/programacion/control_flujo|Condiciones]]
 	- [ ] [[coleciones|Colecciones]]
