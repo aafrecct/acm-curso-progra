@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/programacion/control_flujo.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/programacion/control_flujo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/programacion/control_flujo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizacion/tracker.md"
+                "file": "contenido/programacion/control_flujo.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "233538c9e8733856",
   "lastOpenFiles": [
+    "contenido/programacion/io.md",
+    "contenido/programacion/control_flujo.md",
+    "organizacion/tracker.md",
+    "contenido/indice.md",
+    "contenido/asignaturas/bbdd.md",
     "contenido/programacion/funciones.md",
     "contenido/programacion/coleciones.md",
     "contenido/programacion/bucles.md",
-    "contenido/programacion/control_flujo.md",
-    "contenido/indice.md",
-    "organizacion/tracker.md",
-    "contenido/programacion/io.md",
     "contenido/extra/documentacion.md",
     "contenido/programacion/strings.md",
     "contenido/programacion/errores.md",
@@ -175,7 +176,6 @@
     "razonamiento/razonamiento-memoria.md",
     "contenido/asignaturas/ssdig.md",
     "contenido/asignaturas",
-    "contenido/extra/comentarios.md",
     "\"I",
     "I",
     "contenido/extra",

@@ -10,7 +10,7 @@
 	- [x] [[numeros|Números y operadores]]
 	- [x] [[strings|Caracteres y "strings"]]
 	- [x] [[io|Input y Output]]
-	- [ ] [[contenido/programacion/control_flujo|Condiciones]]
+	- [x] [[contenido/programacion/control_flujo|Condiciones]]
 	- [ ] [[contenido/programacion/bucles|Bucles]]
 	- [ ] [[coleciones|Colecciones]]
 	- [ ] [[contenido/programacion/funciones|Funciones]]
@@ -38,3 +38,8 @@
 	- [ ] [[razonamiento-introduccion]]
 	- [ ] [[razonamiento-memoria]]
 	- [ ] [[razonamiento-nim]]
+
+- [ ] Presentaciones
+	- [ ] sesión 1
+	- [ ] sesión 2
+	- [ ] sesión 3
