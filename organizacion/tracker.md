@@ -9,10 +9,10 @@
 - [ ] Elementos básicos de la programación imperativa
 	- [x] [[numeros|Números y operadores]]
 	- [x] [[strings|Caracteres y "strings"]]
-	- [ ] [[io|Input y Output]]
+	- [x] [[io|Input y Output]]
 	- [ ] [[contenido/programacion/control_flujo|Condiciones]]
-	- [ ] [[coleciones|Colecciones]]
 	- [ ] [[contenido/programacion/bucles|Bucles]]
+	- [ ] [[coleciones|Colecciones]]
 	- [ ] [[contenido/programacion/funciones|Funciones]]
 
 - [ ] Conceptos de programación
@@ -32,3 +32,9 @@
 	- [ ] \[Extra\] [[ejecucion|Ejecución de un programa desde la terminal]]
 	- [ ] \[Extra\] [[comentarios|Comunicación entre programadores]]
 	- [ ] \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
+
+- [ ] Otros
+	- [ ] \[Extra\] [[documentacion]]
+	- [ ] [[razonamiento-introduccion]]
+	- [ ] [[razonamiento-memoria]]
+	- [ ] [[razonamiento-nim]]

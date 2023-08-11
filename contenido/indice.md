@@ -10,8 +10,8 @@
 	2) [[strings|Caracteres y "strings"]]
 	3) [[io|Input y Output]]
 	4) [[contenido/programacion/control_flujo|Condiciones]]
-	5) [[coleciones|Colecciones]]
-	6) [[contenido/programacion/bucles|Bucles]]
+	5) [[contenido/programacion/bucles|Bucles]]
+	6) [[coleciones|Colecciones]]
 	7) [[contenido/programacion/funciones|Funciones]]
 
 3) Conceptos de programación

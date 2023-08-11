@@ -73,6 +73,6 @@ echo b in a
 Aquí mostramos dos operaciones que podemos hacer con strings: la concatenación y la comprobación que contienen un carácter, pero la cantidad de operaciones que se suelen hacer con strings es inmensa. Muchas de estas operaciones, sin embargo, no tienen un operador definido, sino que se hacen a través de [[contenido/programacion/funciones|funciones]], que se darán en una lección posterior.
 
 Por ahora tenemos una idea de lo que significa trabajar con caracteres, y sus complicaciones pero por ahora solo podemos usar números y caracteres para hacer operaciones predefinidas, eso no es programar.
-Nos faltan todavía algunas partes esenciales de la programación como lo son las [[contenido/programacion/control_flujo|condiciones]].
+Nos faltan todavía algunas partes esenciales de la programación como lo son las [[contenido/programacion/control_flujo|condiciones]]. Pero primero hay una pequeña lección sobre como [[io|mostrar nuestros resultados en pantalla]].
 
-[[indice|Volver al índice]] | [[razonamiento-nim|¿Por qué usar este lenguaje?]] | [[contenido/programacion/control_flujo|Siguiente lección]]
+[[indice|Volver al índice]] | [[razonamiento-nim|¿Por qué usar este lenguaje?]] | [[io|Siguiente lección]]
