@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contenido/programacion/control_flujo.md",
+                "file": "organizacion/tracker.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contenido/programacion/control_flujo.md",
-                "collapseAll": false,
+                "file": "organizacion/tracker.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contenido/programacion/control_flujo.md",
+                "file": "organizacion/tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contenido/programacion/control_flujo.md"
+                "file": "organizacion/tracker.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,14 +148,30 @@
   },
   "active": "233538c9e8733856",
   "lastOpenFiles": [
-    "contenido/programacion/io.md",
-    "contenido/programacion/control_flujo.md",
-    "organizacion/tracker.md",
+    "contenido/programacion/colecciones.md",
+    "contenido/programacion/bucles.md",
     "contenido/indice.md",
+    "contenido/asignaturas/computabilidad.md",
+    "presentaciones/sesion1/pnpm-lock.yaml",
+    "presentaciones/sesion1/pnpm-lock.yaml.909161214",
+    "presentaciones/sesion1/node_modules/@polka",
+    "presentaciones/sesion1/node_modules/@braintree",
+    "presentaciones/sesion1/node_modules/@jridgewell",
+    "presentaciones/sesion1/node_modules/@esbuild",
+    "presentaciones/sesion1/node_modules/@drauu",
+    "presentaciones/sesion1/node_modules/@nuxt",
+    "presentaciones/sesion1/node_modules/@unhead",
+    "presentaciones/sesion1/node_modules/@ampproject",
+    "presentaciones/sesion1/slides.md",
+    "presentaciones/sesion1/pages/multiple-entries.md",
+    "presentaciones/sesion1/README.md",
+    "readme.md",
+    "organizacion/tracker.md",
+    "contenido/programacion/cpu.md",
+    "contenido/programacion/control_flujo.md",
+    "contenido/programacion/io.md",
     "contenido/asignaturas/bbdd.md",
     "contenido/programacion/funciones.md",
-    "contenido/programacion/coleciones.md",
-    "contenido/programacion/bucles.md",
     "contenido/extra/documentacion.md",
     "contenido/programacion/strings.md",
     "contenido/programacion/errores.md",
@@ -166,24 +181,8 @@
     "contenido/asignaturas/lfayc.md",
     "contenido/asignaturas/pdl-tdl.md",
     "contenido/programacion/ensamblador.md",
-    "contenido/programacion/cpu.md",
-    "readme.md",
     "contenido/asignaturas/algnum.md",
     "contenido/asignaturas/fisica.md",
-    "contenido/asignaturas/estru-arqui.md",
-    "razonamiento/razonamiento-nim.md",
-    "razonamiento/razonamiento-introduccion.md",
-    "razonamiento/razonamiento-memoria.md",
-    "contenido/asignaturas/ssdig.md",
-    "contenido/asignaturas",
-    "\"I",
-    "I",
-    "contenido/extra",
-    "contenido/java",
-    "Untitled",
-    "contenido/programacion",
-    "razonamiento",
-    "contenido",
-    "presentaciones"
+    "contenido/asignaturas/estru-arqui.md"
   ]
 }

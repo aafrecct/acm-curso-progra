@@ -11,8 +11,8 @@
 	- [x] [[strings|Caracteres y "strings"]]
 	- [x] [[io|Input y Output]]
 	- [x] [[contenido/programacion/control_flujo|Condiciones]]
-	- [ ] [[contenido/programacion/bucles|Bucles]]
-	- [ ] [[coleciones|Colecciones]]
+	- [x] [[contenido/programacion/bucles|Bucles]]
+	- [ ] [[colecciones|Colecciones]]
 	- [ ] [[contenido/programacion/funciones|Funciones]]
 
 - [ ] Conceptos de programación
