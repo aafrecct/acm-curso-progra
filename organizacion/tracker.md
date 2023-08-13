@@ -12,10 +12,10 @@
 	- [x] [[io|Input y Output]]
 	- [x] [[contenido/programacion/control_flujo|Condiciones]]
 	- [x] [[contenido/programacion/bucles|Bucles]]
-	- [ ] [[colecciones|Colecciones]]
+	- [x] [[colecciones|Colecciones]]
 	- [ ] [[contenido/programacion/funciones|Funciones]]
 
-- [ ] Conceptos de programación
+- [ ] Otros Conceptos de programación
 	- [ ] [[contenido/programacion/tipos|Tipos]]
 	- [ ] [[asignacion|Asignación]]
 	- [ ] [[null|Null]]

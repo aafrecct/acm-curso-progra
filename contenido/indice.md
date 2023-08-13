@@ -14,7 +14,7 @@
 	6) [[colecciones|Colecciones]]
 	7) [[contenido/programacion/funciones|Funciones]]
 
-3) Conceptos de programación
+3) Otros conceptos de programación
 	1) [[contenido/programacion/tipos|Tipos]]
 	2) [[asignacion|Asignación]]
 	3) [[null|Null]]

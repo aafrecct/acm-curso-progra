@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c9bb8ec2f3c388a",
+        "id": "02a2a83bb518dab9",
         "type": "tabs",
         "children": [
           {
-            "id": "233538c9e8733856",
+            "id": "0c8ee173619a48cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizacion/tracker.md",
-                "mode": "preview",
+                "file": "contenido/programacion/colecciones.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/programacion/colecciones.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/programacion/colecciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizacion/tracker.md"
+                "file": "contenido/programacion/colecciones.md"
               }
             }
           }
@@ -139,18 +139,23 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "233538c9e8733856",
+  "active": "0c8ee173619a48cc",
   "lastOpenFiles": [
-    "contenido/programacion/colecciones.md",
-    "contenido/programacion/bucles.md",
+    "organizacion/tracker.md",
     "contenido/indice.md",
+    "contenido/programacion/colecciones.md",
+    "2023-08-13.md",
+    "contenido/programacion/cpu.md",
+    "contenido/programacion/ensamblador.md",
+    "contenido/programacion/compilar.md",
+    "contenido/programacion/bucles.md",
     "contenido/asignaturas/computabilidad.md",
     "presentaciones/sesion1/pnpm-lock.yaml",
     "presentaciones/sesion1/pnpm-lock.yaml.909161214",
@@ -166,8 +171,6 @@
     "presentaciones/sesion1/pages/multiple-entries.md",
     "presentaciones/sesion1/README.md",
     "readme.md",
-    "organizacion/tracker.md",
-    "contenido/programacion/cpu.md",
     "contenido/programacion/control_flujo.md",
     "contenido/programacion/io.md",
     "contenido/asignaturas/bbdd.md",
@@ -177,12 +180,9 @@
     "contenido/programacion/errores.md",
     "organizacion/objectivos.md",
     "contenido/programacion/numeros.md",
-    "contenido/programacion/compilar.md",
     "contenido/asignaturas/lfayc.md",
     "contenido/asignaturas/pdl-tdl.md",
-    "contenido/programacion/ensamblador.md",
     "contenido/asignaturas/algnum.md",
-    "contenido/asignaturas/fisica.md",
-    "contenido/asignaturas/estru-arqui.md"
+    "contenido/asignaturas/fisica.md"
   ]
 }
