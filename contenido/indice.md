@@ -20,6 +20,7 @@
 	3) [[null|Null]]
 	4) [[errores|Errores y excepciones]]
 	5) \[Extra\] [[buenas_practicas|Buenas prácticas]]
+	6) \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
 
 4) Java
 	1) [[estructura|Estructura básica del código]]
@@ -30,4 +31,4 @@
 	6) [[contenido/programacion/funciones|Funciones]]
 	7) \[Extra\] [[ejecucion|Ejecución de un programa desde la terminal]]
 	8) \[Extra\] [[comentarios|Comunicación entre programadores]]
-	9) \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
+	9) \[Extra\] [[documentacion|Documentación]]

@@ -8,28 +8,49 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:-contenido",
+      "query": "path:contenido/asignaturas",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:contenido/asignaturas",
+      "query": "path:razonamiento",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:contenido",
+      "query": "file:indice",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "path:contenido/programacion",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:contenido/java",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:contenido/extra",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3665845301762422,
-  "close": true
+  "scale": 0.319160855361879,
+  "close": false
 }

@@ -13,14 +13,15 @@
 	- [x] [[contenido/programacion/control_flujo|Condiciones]]
 	- [x] [[contenido/programacion/bucles|Bucles]]
 	- [x] [[colecciones|Colecciones]]
-	- [ ] [[contenido/programacion/funciones|Funciones]]
+	- [x] [[contenido/programacion/funciones|Funciones]]
 
 - [ ] Otros Conceptos de programación
 	- [ ] [[contenido/programacion/tipos|Tipos]]
 	- [ ] [[asignacion|Asignación]]
 	- [ ] [[null|Null]]
 	- [ ] [[errores|Errores y excepciones]]
-	- [ ] \[Extra\] [[buenas_practicas|Buenas prácticas]]
+	- [ ] \[Extra\] [[buenas_practicas|Buenas prácticas]] 
+	- [ ] \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
 
 - [ ] Java
 	- [ ] [[estructura|Estructura básica del código]]
@@ -31,10 +32,9 @@
 	- [ ] [[contenido/programacion/funciones|Funciones]]
 	- [ ] \[Extra\] [[ejecucion|Ejecución de un programa desde la terminal]]
 	- [ ] \[Extra\] [[comentarios|Comunicación entre programadores]]
-	- [ ] \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
+	- [ ] \[Extra\] [[documentacion]]
 
 - [ ] Otros
-	- [ ] \[Extra\] [[documentacion]]
 	- [ ] [[razonamiento-introduccion]]
 	- [ ] [[razonamiento-memoria]]
 	- [ ] [[razonamiento-nim]]

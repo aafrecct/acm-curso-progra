@@ -37,6 +37,6 @@ Como podemos ver, `notas_progra` es una serie ordenada de 8 números. Los númer
 
 Además podemos 'recorrer' los elementos de un array, como podemos ver en el bucle que calcula la suma de notas. Ese bucle se puede leer: "_Por cada nota que hay en 'notas_progra'_..."
 
-Esto es todo lo que necesitamos saber por ahora sobre los arrays: son una forma de guardar una "lista" de datos. ¿Porqué se llaman "arrays" y no "listas"? Pues porque en general "lista" es el termino que utilizamos para otro tipo de colección, que por ahora no nos interesa.
+Esto es todo lo que necesitamos saber por ahora sobre los arrays: son una forma de guardar una "lista" de datos. ¿Porqué se llaman "arrays" y no "listas"? Pues porque en general "lista" es el término que utilizamos para otro tipo de colección, que por ahora no nos interesa.
 
-[[indice|Volver al índice]] | [[razonamiento-introduccion|¿Por qué es esto importante?]] | [[contenido/programacion/funciones|Siguiente lección]]
+[[indice|Volver al índice]] | [[razonamiento-nim|¿Por qué usar este lenguaje?]] | [[contenido/programacion/funciones|Siguiente lección]]

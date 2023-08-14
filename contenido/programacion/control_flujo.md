@@ -36,6 +36,8 @@ Sin embargo no todos los operadores que devuelven un valor booleano son operador
 echo 'c' in "casa"
 ```
 
+Además muchas veces necesitamos combinar condiciones o invertirlas (negarlas), para esto están los operadores lógicos `and`, `or` y `not`. Que en algunos lenguajes se escriben `&&`, `||` y `!`.
+
 Hay muchos diversos operadores para hacer comprobaciones y son distintos en cada lenguaje de programación. Por tanto, según vamos aprendiendo un lenguaje, nos iremos familiarizando con sus operadores.
 
 ### If (This) Then That Else What?

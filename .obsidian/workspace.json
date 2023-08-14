@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "02a2a83bb518dab9",
+        "id": "f2c3d67645e68a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c8ee173619a48cc",
+            "id": "0e860a1134218430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contenido/programacion/colecciones.md",
+                "file": "razonamiento/razonamiento-nim.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contenido/programacion/colecciones.md",
+                "file": "razonamiento/razonamiento-nim.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contenido/programacion/colecciones.md",
+                "file": "razonamiento/razonamiento-nim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contenido/programacion/colecciones.md"
+                "file": "razonamiento/razonamiento-nim.md"
               }
             }
           }
@@ -146,16 +146,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0c8ee173619a48cc",
+  "active": "0e860a1134218430",
   "lastOpenFiles": [
-    "organizacion/tracker.md",
-    "contenido/indice.md",
+    "contenido/programacion/funciones.md",
     "contenido/programacion/colecciones.md",
+    "contenido/programacion/bucles.md",
+    "razonamiento/razonamiento-introduccion.md",
+    "contenido/programacion/control_flujo.md",
+    "razonamiento/razonamiento-nim.md",
+    "contenido/programacion/io.md",
+    "contenido/programacion/strings.md",
+    "contenido/programacion/numeros.md",
+    "contenido/indice.md",
+    "organizacion/tracker.md",
     "2023-08-13.md",
     "contenido/programacion/cpu.md",
     "contenido/programacion/ensamblador.md",
     "contenido/programacion/compilar.md",
-    "contenido/programacion/bucles.md",
     "contenido/asignaturas/computabilidad.md",
     "presentaciones/sesion1/pnpm-lock.yaml",
     "presentaciones/sesion1/pnpm-lock.yaml.909161214",
@@ -171,18 +178,11 @@
     "presentaciones/sesion1/pages/multiple-entries.md",
     "presentaciones/sesion1/README.md",
     "readme.md",
-    "contenido/programacion/control_flujo.md",
-    "contenido/programacion/io.md",
     "contenido/asignaturas/bbdd.md",
-    "contenido/programacion/funciones.md",
     "contenido/extra/documentacion.md",
-    "contenido/programacion/strings.md",
     "contenido/programacion/errores.md",
     "organizacion/objectivos.md",
-    "contenido/programacion/numeros.md",
     "contenido/asignaturas/lfayc.md",
-    "contenido/asignaturas/pdl-tdl.md",
-    "contenido/asignaturas/algnum.md",
-    "contenido/asignaturas/fisica.md"
+    "contenido/asignaturas/pdl-tdl.md"
   ]
 }
