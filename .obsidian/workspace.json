@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "organizacion/tracker.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "9302f40c561bf35f",
   "lastOpenFiles": [
+    "contenido/java/control_flujo.md",
+    "contenido/java/tipos.md",
+    "contenido/programacion/control_flujo.md",
+    "organizacion/tracker.md",
     "contenido/indice.md",
     "contenido/asignaturas/prolog.md",
     "contenido/extra/paradigmas.md",
-    "organizacion/tracker.md",
     "index.html",
     "contenido/extra/comentarios.md",
     "contenido/extra/documentacion.md",
@@ -160,9 +163,6 @@
     "contenido/java/bucles.md",
     "contenido/programacion/funciones.md",
     "contenido/programacion/bucles.md",
-    "contenido/java/control_flujo.md",
-    "contenido/programacion/control_flujo.md",
-    "contenido/java/tipos.md",
     "razonamiento/razonamiento-memoria.md",
     "contenido/java/estructura.md",
     "contenido/java/operadores.md",

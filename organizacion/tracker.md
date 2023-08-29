@@ -26,7 +26,7 @@
 - [ ] Java
 	- [x] [[estructura|Estructura básica del código]]
 	- [x] [[contenido/java/tipos|Tipos]]
-	- [ ] [[contenido/programacion/control_flujo|Control de flujo]]
+	- [xSS] [[contenido/programacion/control_flujo|Control de flujo]]
 	- [ ] [[contenido/programacion/bucles|Bucles]]
 	- [ ] [[contenido/programacion/funciones|Funciones]]
 	- [ ] \[Extra\] [[ejecucion|Ejecución de un programa desde la terminal]]
