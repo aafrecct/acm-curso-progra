@@ -20,7 +20,7 @@ Para esta pequeña introducción, sin embargo, solo nos interesa la CPU (Unidad 
 > [!NOTE]
 > El camino desde circuitos electrónicos hasta una CPU capaz de interpretar cadenas de 0s y 1s y producir resultados se intenta explicar entre las asignaturas de [[fisica|Física]] y [[ssdig|Sistemas Digitales]] 
 
-Además, la CPU es capaz de elegir qué operación hacer en base a la cadena de 1s y 0s que recibe. La CPU por tanto es capaz de interpretar cadenas binarias y producir un resultado.
+Además, la CPU es capaz de elegir qué operación hacer según la cadena de 1s y 0s que recibe. La CPU, por tanto, es capaz de interpretar cadenas binarias y producir un resultado.
 
 En el fondo, las instrucciones que le damos a un ordenador son cadenas de 1s y 0s que codifican una información. Esa información suele estar en una forma similar a la siguiente:
 
@@ -29,9 +29,7 @@ En el fondo, las instrucciones que le damos a un ordenador son cadenas de 1s y 0
 [ Operación ] [ Operando1 ] [ Operando2 ]
 ```
 
-Como es obvio, es muy complicado entender qué estamos haciendo cuando solo podemos leer 1s y 0s, por tanto existen 'proto-lenguajes' que hacen que estas lineas de binario sean más fáciles de entender. Estos lenguajes son lo que llamamos [[ensamblador]].
+Como es obvio, es muy complicado entender qué estamos haciendo cuando solo podemos leer 1s y 0s, por tanto, existen 'proto-lenguajes' que hacen que estas lineas de binario sean más fáciles de entender. Estos lenguajes son lo que llamamos [[ensamblador]].
 
-
-
-
-[[indice|Volver al índice]] | [[razonamiento-introduccion|¿Por qué es esto importante?]] | [[ensamblador|Siguiente lección]]
+[[razonamiento-introduccion|¿Por qué es esto importante?]]
+[[indice|Volver al índice]] | [[ensamblador|Siguiente lección]]

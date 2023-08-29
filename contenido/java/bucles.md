@@ -1,3 +1,3 @@
 # Bucles en Java
 
-[[indice|Volver al índice]] | [[contenido/java/funciones|Siguiente lección]]
+[[contenido/java/control_flujo|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/java/funciones|Siguiente lección]]

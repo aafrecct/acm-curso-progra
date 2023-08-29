@@ -47,4 +47,5 @@ Por tanto en nuestro ejemplo estamos imprimiendo `15` y `1` respectivamente. Pue
 
 Con esto, prácticamente tenemos todas las partes esenciales para aprender los conceptos básicos de cualquier lenguaje de programación imperativo. Obviamente, cada lenguaje de programación tiene sus peculiaridades y todos hacen varias cosas especiales para hacer algunos cálculos más fáciles, o más rápidos, o más seguros, por todo esto, aprender un nuevo lenguaje no es trivial, pero con estas herramientas, puedes ir haciendo las preguntas adecuadas sobre cómo hacer determinadas cosas y por qué.
 
-[[indice|Volver al índice]] |  [[razonamiento-nim|¿Por qué usar este lenguaje?]] | [[contenido/programacion/tipos|Siguiente parte]]
+[[razonamiento-nim|¿Por qué usar este lenguaje?]] 
+[[colecciones|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/programacion/tipos|Siguiente parte]]

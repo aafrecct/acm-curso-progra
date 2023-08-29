@@ -69,4 +69,5 @@ echo resultado
 
 Veremos más operadores en las siguientes lecciones para poder trabajar con otros tipos de datos. Por ahora, sabiendo como utilizar números, vamos a pasar a utilizar [[strings|Letras]].
 
-[[indice|Volver al índice]] | [[razonamiento-nim|¿Por qué usar este lenguaje?]] | [[strings|Siguiente lección]]
+[[razonamiento-nim|¿Por qué usar este lenguaje?]]
+[[compilar|Lección anterior]] | [[indice|Volver al índice]] | [[strings|Siguiente lección]]

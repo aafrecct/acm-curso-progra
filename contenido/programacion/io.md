@@ -21,4 +21,5 @@ echo "Hola " & nombre
 
 Con esto hemos terminado esta lección, lo importante **NO** es que tengas una comprensión completa de todo lo que hay en esta página, sino que entiendas que casi todos los lenguajes tienen una forma de _imprimir_ mensajes por pantalla y que conozcas los términos para buscarlo y aplicarlo a varios lenguajes. Además, ahora deberías entender lo que significa la palabra `echo` en los ejemplos.
 
-[[indice|Volver al índice]] | [[razonamiento-nim|¿Por qué usar este lenguaje?]] | [[contenido/programacion/control_flujo|Siguiente lección]]
+[[razonamiento-nim|¿Por qué usar este lenguaje?]]
+[[strings|Lección anterior]] | [[indice|Volver al índice]]  | [[contenido/programacion/control_flujo|Siguiente lección]]

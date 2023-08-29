@@ -1,3 +1,3 @@
 # Condiciones en Java
 
-[[indice|Volver al índice]] | [[contenido/java/bucles|Siguiente lección]]
+[[contenido/java/tipos|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/java/bucles|Siguiente lección]]

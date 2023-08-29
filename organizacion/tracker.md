@@ -6,7 +6,7 @@
 	- [x] [[ensamblador|Ensamblador]]
 	- [x] [[compilar|¿Qué es compilar?]]
 	
-- [ ] Elementos básicos de la programación imperativa
+- [x] Elementos básicos de la programación imperativa
 	- [x] [[numeros|Números y operadores]]
 	- [x] [[strings|Caracteres y "strings"]]
 	- [x] [[io|Input y Output]]
@@ -15,29 +15,26 @@
 	- [x] [[colecciones|Colecciones]]
 	- [x] [[contenido/programacion/funciones|Funciones]]
 
-- [ ] Otros Conceptos de programación
-	- [ ] [[contenido/programacion/tipos|Tipos]]
-	- [ ] [[asignacion|Asignación]]
-	- [ ] [[null|Null]]
-	- [ ] [[errores|Errores y excepciones]]
-	- [ ] \[Extra\] [[buenas_practicas|Buenas prácticas]] 
-	- [ ] \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
+- [x] Otros Conceptos de programación
+	- [x] [[contenido/programacion/tipos|Tipos]]
+	- [x] [[null|Null]]
+	- [x] [[errores|Errores y excepciones]]
+	- [x] \[Extra\] [[buenas_practicas|Buenas prácticas]] 
+	- [x] \[Extra\] [[comentarios|Comunicación entre programadores]]
+	- [x] \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
 
 - [ ] Java
-	- [ ] [[estructura|Estructura básica del código]]
-	- [ ] [[contenido/java/tipos|Tipos]]
-	- [ ] [[operadores|Operadores]]
+	- [x] [[estructura|Estructura básica del código]]
+	- [x] [[contenido/java/tipos|Tipos]]
 	- [ ] [[contenido/programacion/control_flujo|Control de flujo]]
 	- [ ] [[contenido/programacion/bucles|Bucles]]
 	- [ ] [[contenido/programacion/funciones|Funciones]]
 	- [ ] \[Extra\] [[ejecucion|Ejecución de un programa desde la terminal]]
-	- [ ] \[Extra\] [[comentarios|Comunicación entre programadores]]
-	- [ ] \[Extra\] [[documentacion]]
+	- [ ] \[Extra\] [[documentacion|Documentación]]
 
-- [ ] Otros
-	- [ ] [[razonamiento-introduccion]]
-	- [ ] [[razonamiento-memoria]]
-	- [ ] [[razonamiento-nim]]
+- [x] Otros
+	- [x] [[razonamiento-introduccion]]
+	- [x] [[razonamiento-nim]]
 
 - [ ] Presentaciones
 	- [ ] sesión 1

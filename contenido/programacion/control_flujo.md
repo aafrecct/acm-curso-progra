@@ -66,4 +66,6 @@ if numero mod 2 == 0:
 else:
   echo "IMPAR"
 ```
-[[indice|Volver al índice]] | [[razonamiento-nim|¿Por qué usar este lenguaje?]] | [[contenido/programacion/bucles|Siguiente lección]]
+
+
+[[io|Lección anterior]] | [[indice|Volver al índice]]  | [[contenido/programacion/bucles|Siguiente lección]]

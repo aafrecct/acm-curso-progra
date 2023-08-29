@@ -1,3 +1,3 @@
 # Funciones en Java
 
-[[indice|Volver al índice]] | [[ejecucion|Siguiente lección]]
+[[contenido/java/bucles|Lección anterior]] | [[indice|Volver al índice]] | [[ejecucion|Siguiente lección]]

@@ -16,19 +16,17 @@
 
 3) Otros conceptos de programación
 	1) [[contenido/programacion/tipos|Tipos]]
-	2) [[asignacion|Asignación]]
-	3) [[null|Null]]
-	4) [[errores|Errores y excepciones]]
-	5) \[Extra\] [[buenas_practicas|Buenas prácticas]]
+	2) [[null|Null]]
+	3) [[errores|Errores y excepciones]]
+	4) \[Extra\] [[buenas_practicas|Buenas prácticas]]
+	5) \[Extra\] [[comentarios|Comunicación entre programadores]]
 	6) \[Extra\] [[paradigmas|Nota sobre paradigmas de programación]]
 
 4) Java
 	1) [[estructura|Estructura básica del código]]
 	2) [[contenido/java/tipos|Tipos]]
-	3) [[operadores|Operadores]]
-	4) [[contenido/programacion/control_flujo|Control de flujo]]
-	5) [[contenido/programacion/bucles|Bucles]]
-	6) [[contenido/programacion/funciones|Funciones]]
-	7) \[Extra\] [[ejecucion|Ejecución de un programa desde la terminal]]
-	8) \[Extra\] [[comentarios|Comunicación entre programadores]]
-	9) \[Extra\] [[documentacion|Documentación]]
+	3) [[contenido/java/control_flujo|Control de flujo]]
+	4) [[contenido/java/bucles|Bucles]]
+	5) [[contenido/java/funciones|Funciones]]
+	6) \[Extra\] [[ejecucion|Ejecución de un programa desde la terminal]]
+	7) \[Extra\] [[documentacion|Documentación]]

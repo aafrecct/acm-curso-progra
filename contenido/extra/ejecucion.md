@@ -1,3 +1,3 @@
 # Ejecución de programas
 
-[[indice|Volver al índice]] | [[comentarios|Siguiente lección]]
+[[contenido/java/funciones|Lección anterior]] | [[indice|Volver al índice]] | [[documentacion|Siguiente lección]]

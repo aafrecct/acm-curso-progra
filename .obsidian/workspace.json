@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2c3d67645e68a2c",
+        "id": "b52881ce4ebde1d4",
         "type": "tabs",
         "children": [
           {
-            "id": "0e860a1134218430",
+            "id": "9302f40c561bf35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "razonamiento/razonamiento-nim.md",
-                "mode": "source",
+                "file": "organizacion/tracker.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200
   },
   "right": {
     "id": "fc5d1528d49abbb7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "razonamiento/razonamiento-nim.md",
+                "file": "organizacion/tracker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "razonamiento/razonamiento-nim.md",
+                "file": "organizacion/tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "razonamiento/razonamiento-nim.md"
+                "file": "organizacion/tracker.md"
               }
             }
           }
@@ -146,24 +146,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0e860a1134218430",
+  "active": "9302f40c561bf35f",
   "lastOpenFiles": [
+    "contenido/indice.md",
+    "contenido/asignaturas/prolog.md",
+    "contenido/extra/paradigmas.md",
+    "organizacion/tracker.md",
+    "index.html",
+    "contenido/extra/comentarios.md",
+    "contenido/extra/documentacion.md",
+    "contenido/extra/ejecucion.md",
+    "contenido/java/funciones.md",
+    "contenido/java/bucles.md",
     "contenido/programacion/funciones.md",
-    "contenido/programacion/colecciones.md",
     "contenido/programacion/bucles.md",
-    "razonamiento/razonamiento-introduccion.md",
+    "contenido/java/control_flujo.md",
     "contenido/programacion/control_flujo.md",
-    "razonamiento/razonamiento-nim.md",
+    "contenido/java/tipos.md",
+    "razonamiento/razonamiento-memoria.md",
+    "contenido/java/estructura.md",
+    "contenido/java/operadores.md",
+    "contenido/extra/buenas_practicas.md",
+    "contenido/programacion/errores.md",
+    "contenido/programacion/tipos.md",
+    "contenido/programacion/null.md",
+    "contenido/programacion/numeros.md",
+    "contenido/programacion/colecciones.md",
+    "organizacion/objectivos.md",
     "contenido/programacion/io.md",
     "contenido/programacion/strings.md",
-    "contenido/programacion/numeros.md",
-    "contenido/indice.md",
-    "organizacion/tracker.md",
-    "2023-08-13.md",
-    "contenido/programacion/cpu.md",
-    "contenido/programacion/ensamblador.md",
-    "contenido/programacion/compilar.md",
-    "contenido/asignaturas/computabilidad.md",
     "presentaciones/sesion1/pnpm-lock.yaml",
     "presentaciones/sesion1/pnpm-lock.yaml.909161214",
     "presentaciones/sesion1/node_modules/@polka",
@@ -172,17 +183,6 @@
     "presentaciones/sesion1/node_modules/@esbuild",
     "presentaciones/sesion1/node_modules/@drauu",
     "presentaciones/sesion1/node_modules/@nuxt",
-    "presentaciones/sesion1/node_modules/@unhead",
-    "presentaciones/sesion1/node_modules/@ampproject",
-    "presentaciones/sesion1/slides.md",
-    "presentaciones/sesion1/pages/multiple-entries.md",
-    "presentaciones/sesion1/README.md",
-    "readme.md",
-    "contenido/asignaturas/bbdd.md",
-    "contenido/extra/documentacion.md",
-    "contenido/programacion/errores.md",
-    "organizacion/objectivos.md",
-    "contenido/asignaturas/lfayc.md",
-    "contenido/asignaturas/pdl-tdl.md"
+    "presentaciones/sesion1/node_modules/@unhead"
   ]
 }
