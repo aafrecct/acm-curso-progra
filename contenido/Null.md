@@ -1,7 +1,7 @@
 # Null
 **None, Nil, etc**
 > [!NOTE]
-> Esta lección muestra la casi universalidad del valor nulo, que tiene distintos nombres en distintos lenguajes. En Java, se llama `null` lo puedes ver mencionado [[contenido/java/tipos|aquí]].
+> Esta lección muestra la casi universalidad del valor nulo, que tiene distintos nombres en distintos lenguajes. En Java, se llama `null` lo puedes ver mencionado [[JavaTipos|aquí]].
 
 En programación, hay valores que, como son pequeños y manejables, se copian de un lado a otro cada vez que se quieren utilizar. Para el resto de valores, utilizamos 'referencias'. En el fondo, una referencia es un número que indica una posición en memoria donde están los datos.
 
@@ -18,4 +18,4 @@ La solución parece obvia entonces: comprobar siempre si las referencias son vá
 > [!NOTE]
 > Algunos lenguajes modernos NO tienen una referencia nula, como Rust. La estrategia en estos lenguajes es conseguir que cualquier estado interno del programa que se consideraría un error sea irrepresentable. Esto se consigue a través del sistema de tipos, y es un tema muy interesante, pero se sale del ámbito de este curso.
 
-[[contenido/programacion/tipos|Lección anterior]] | [[indice|Volver al índice]] | [[errores|Siguiente lección]]
+[[Tipos|Lección anterior]] | [[Indice|Volver al índice]] | [[Errores|Siguiente lección]]

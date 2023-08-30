@@ -76,4 +76,4 @@ Aunque a primera vista, la primera puede parecer la más sencilla, un programado
 
 Esto no es un problema de los lenguajes, cosas similares al último ejemplo se pueden hacer en Python y en Java, pero una vez más se salen un poco del ámbito del curso. Lo importante es que sepamos usar nuestros tipos de datos y la información que transmiten a quien lee el código.
 
-[[errores|Lección anterior]] | [[indice|Volver al índice]] | [[comentarios|Siguiente parte]]
+[[Errores|Lección anterior]] | [[Indice|Volver al índice]] | [[Comentarios|Siguiente parte]]

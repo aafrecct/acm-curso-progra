@@ -79,4 +79,4 @@ switch (marcha) {
 Nos permite indicar acciones específicas para valores específicos y una acción genérica para cualquier otro caso.
 
 
-[[contenido/java/tipos|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/java/bucles|Siguiente lección]]
+[[JavaTipos|Lección anterior]] | [[Indice|Volver al índice]] | [[JavaBucles|Siguiente lección]]

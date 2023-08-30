@@ -43,8 +43,8 @@ int m = 170 % 3;
 // Suma 1
 n++;
 ++n;
-// Suma de String
+// Suma de Strings
 String saludo = "Hola " + "Antonio"
 ```
 
-[[estructura|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/java/control_flujo|Siguiente lección]]
+[[JavaIntro|Lección anterior]] | [[Indice|Volver al índice]] | [[JavaCondiciones|Siguiente lección]]

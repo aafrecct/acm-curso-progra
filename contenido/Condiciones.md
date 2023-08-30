@@ -1,6 +1,6 @@
 # Condiciones y control del flujo
 > [!NOTE]
-> Esta lección muestra como trabajar con condiciones y las estructuras comunes que nos podemos encontrar. Hay otra lección con una explicación más detallada de como funciona el control de flujo específicamente en Java y su sintaxis [[contenido/java/control_flujo|aquí]].
+> Esta lección muestra como trabajar con condiciones y las estructuras comunes que nos podemos encontrar. Hay otra lección con una explicación más detallada de como funciona el control de flujo específicamente en Java y su sintaxis [[JavaCondiciones|aquí]].
 
 Una de las operaciones más comunes en programación es comprobar si nuestros datos cumplen una condición. Para así poder hacer algo si la cumplen o hacer otra cosa si no. Imaginemos que estamos haciendo un programa que devuelva si un número es par o no. Por ahora sabríamos calcular el resto de dividir ese número entre 2, sabríamos imprimir por pantalla "PAR" o "IMPAR", pero no sabríamos como decirle al ordenador que solo escriba "PAR" si el resto es 0 e "IMPAR" si es 1.
 
@@ -23,14 +23,14 @@ Sin embargo, la historia no es tan simple ya que algunos lenguajes, como C, no t
 Hay una serie de operadores que utilizamos para expresar condiciones. Algunos son operadores de comparación, sobretodo entre números, como lo son `<` 'menor que', `>` 'mayor que', `==` 'igual que', y otros. Estos operadores comparan dos números y devuelven un valor booleano, es decir, o 'verdadero' si se cumple la condición, o 'falso' en otro caso.
 
 > [!NOTE]
-> Si es tu primera vez aprendiendo a programar puede resultarte raro que 'igual que' se represente con 2 iguales. Esto es porque la mayoría de lenguajes utilizan el símbolo de `=` para asignar variables. Esto es una convención, y es casi universal en el mundo de la programación (casi todos los lenguajes son así), pero no es necesario. Es decir, uno podría crear un lenguaje donde el operador de igualdad fuera un único `=`, y de hecho, esto es así en SQL (un lenguaje relacionado con las [[bbdd|bases de datos]]).
+> Si es tu primera vez aprendiendo a programar puede resultarte raro que 'igual que' se represente con 2 iguales. Esto es porque la mayoría de lenguajes utilizan el símbolo de `=` para asignar variables. Esto es una convención, y es casi universal en el mundo de la programación (casi todos los lenguajes son así), pero no es necesario. Es decir, uno podría crear un lenguaje donde el operador de igualdad fuera un único `=`, y de hecho, esto es así en SQL (un lenguaje relacionado con las [[BBDD|bases de datos]]).
 
 ``` nim
 echo 10 > 1
 echo 9 == 11
 ```
 
-Sin embargo no todos los operadores que devuelven un valor booleano son operadores de comparación, de hecho, en la sección de [[strings]] vimos un ejemplo que incluía el operador `in` y que efectivamente devolvía un valor booleano:
+Sin embargo no todos los operadores que devuelven un valor booleano son operadores de comparación, de hecho, en la sección de [[Strings]] vimos un ejemplo que incluía el operador `in` y que efectivamente devolvía un valor booleano:
 
 ```nim
 echo 'c' in "casa"
@@ -68,4 +68,4 @@ else:
 ```
 
 
-[[io|Lección anterior]] | [[indice|Volver al índice]]  | [[contenido/programacion/bucles|Siguiente lección]]
+[[IO|Lección anterior]] | [[Indice|Volver al índice]]  | [[Bucles|Siguiente lección]]

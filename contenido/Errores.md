@@ -47,4 +47,4 @@ try {
 
 Como podemos ver, es parecido a como utilizamos los bloques if-then-else, sin embargo, siempre que podamos, deberíamos usar un `if` en vez de un `try`. No solo porque levantar y capturar una excepción suele ser más lento, sino porque es importante que las excepciones conserven su significado: Algo ha ido mal.
 
-[[null|Lección anterior]] | [[indice|Volver al índice]] | [[buenas_practicas|Siguiente parte]]
+[[Null|Lección anterior]] | [[Indice|Volver al índice]] | [[BuenasPracticas|Siguiente parte]]

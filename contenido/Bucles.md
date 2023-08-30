@@ -1,6 +1,6 @@
 # Bucles
 > [!NOTE]
-> Esta lección muestra lo que es un bucle en general, los tipos de bucles que nos podemos encontrar y sus usos. Hay otra lección con una explicación más detallada de los bucles que podemos encontrar específicamente en Java y su sintaxis [[contenido/java/bucles|aquí]].
+> Esta lección muestra lo que es un bucle en general, los tipos de bucles que nos podemos encontrar y sus usos. Hay otra lección con una explicación más detallada de los bucles que podemos encontrar específicamente en Java y su sintaxis [[JavaBucles|aquí]].
 
 Poder delegar nuestros cálculos a un ordenador es cómodo y probablemente más rápido que hacerlos a mano, pero si tenemos que especificar una a una todas las operaciones que queremos hacer, algunas tareas van a terminar siendo un poco tediosas. 
 
@@ -25,7 +25,7 @@ Y efectivamente, esto funcionaría, pero escribir el código sería innecesariam
 Es por esto que los lenguajes de programación 'imperativos' nos ofrecen una utilidad: los bucles. Los bucles nos permiten ejecutar un trozo de código repetidamente. Hay bastantes tipos de bucles, pero a grandes rasgos, destacan dos: Los bucles `for` y los bucles `while`.
 
 > [!NOTE]
-> La diferencia entre los bucles 'FOR' y los bucles 'WHILE' no es trivial y tiene un papel central en la teoría de la computabilidad, es decir, la pregunta de '¿Qué se puede calcular?'. Si te interesan estos temas la optativa [[computabilidad|Computabilidad]] puede que sea para tí.
+> La diferencia entre los bucles 'FOR' y los bucles 'WHILE' no es trivial y tiene un papel central en la teoría de la computabilidad, es decir, la pregunta de '¿Qué se puede calcular?'. Si te interesan estos temas la optativa [[Computabilidad|Computabilidad]] puede que sea para tí.
 
 ### Bucles FOR
 Los bucles FOR tienen una misión clara y una limitación obvia. Son la herramienta que utilizamos cuando sabemos el número de veces que vamos a querer ejecutar un código. 
@@ -59,7 +59,7 @@ Pero claro, esto también trae consigo algunas limitaciones, la principal de ell
 ### Bucles WHILE
 Los bucles WHILE se comportan de una manera distinta a los bucles FOR. En vez de saber a priori el número de veces que se van a ejecutar, lo que hacen es comprobar una condición cada vez que van a volver a ejecutar el código. Si la condición se cumple, el código se ejecuta, si no, el bucle para.
 
-Estas condiciones son del mismo tipo que vimos en la lección de [[contenido/programacion/control_flujo|Condiciones]]. Si la condición tiene un valor verdadero, entonces se entra en el bucle, si es falso, entonces no. Esto es útil cuando no sabemos cuantas veces habrá que ejecutar un código para obtener el resultado que queremos. Por ejemplo, ¿cuándo se hacen los términos de la sucesión de Fibonacci mayores que 10000? No lo sabemos, pero podemos reescribir el código anterior para averiguarlo.
+Estas condiciones son del mismo tipo que vimos en la lección de [[Condiciones|Condiciones]]. Si la condición tiene un valor verdadero, entonces se entra en el bucle, si es falso, entonces no. Esto es útil cuando no sabemos cuantas veces habrá que ejecutar un código para obtener el resultado que queremos. Por ejemplo, ¿cuándo se hacen los términos de la sucesión de Fibonacci mayores que 10000? No lo sabemos, pero podemos reescribir el código anterior para averiguarlo.
 
 ```nim
 var i = 0
@@ -91,7 +91,7 @@ Los bucles infinitos son útiles, pero también pueden causar muchos problemas, 
 
 En muchos lenguajes, además hay una palabra reservada para salir de cualquier bucle a la fuerza. Cuando el lenguaje lee esa palabra, da igual si se cumple la condición o no, el bucle ha terminado. Esta palabra suele ser `break`.
 
-Con esto podemos avanzar hacia la siguiente lección, que trata de como agrupar datos juntos. Como se puede intuir, los bucles son necesarios para poder tratar con datos similares que están agrupados. El nombre más genérico para estos grupos de datos es [[colecciones|Colecciones]].
+Con esto podemos avanzar hacia la siguiente lección, que trata de como agrupar datos juntos. Como se puede intuir, los bucles son necesarios para poder tratar con datos similares que están agrupados. El nombre más genérico para estos grupos de datos es [[Colecciones|Colecciones]].
 
 [[razonamiento-nim|¿Por qué usar este lenguaje?]]
-[[contenido/programacion/control_flujo|Lección anterior]] | [[indice|Volver al índice]] | [[colecciones|Siguiente lección]]
+[[Condiciones|Lección anterior]] | [[Indice|Volver al índice]] | [[Colecciones|Siguiente lección]]

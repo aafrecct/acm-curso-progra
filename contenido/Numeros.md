@@ -1,6 +1,6 @@
 # Números y operadores
 > [!NOTE]
-> Esta lección muestra como trabajar con números mientras programamos, tipos y operaciones comunes. Hay otra lección con una explicación más detallada de los tipos de datos que podemos encontrar específicamente en Java y su sintaxis [[contenido/java/tipos|aquí]].
+> Esta lección muestra como trabajar con números mientras programamos, tipos y operaciones comunes. Hay otra lección con una explicación más detallada de los tipos de datos que podemos encontrar específicamente en Java y su sintaxis [[JavaTipos|aquí]].
 
 ### Nombres y datos 
 Cuando trabajamos con un ordenador, todo son números, los números son números, los colores son números, las posiciones son números y las palabras son números. Pero algunos números son más números que otros números, por decirlo de alguna manera.
@@ -15,7 +15,7 @@ var nota_programacion_1 = 10
 ### Números enteros y decimales
 De manera muy general vamos a diferenciar entre dos tipos de números distintos: los números enteros y los números de coma flotante (es decir, los números que tienen una parte decimal). Esta división es común a muchos lenguajes de programación.
 
-La razón por la que estos dos tipos de números son distintos es porque para representarlos dentro de un computador los tenemos que pasar a binario, y la forma de representarlos en binario cambia un poco si un número es entero o si es racional. Esto tiene un impacto muy importante en la informática. Podrás aprender más sobre todo esto en la asignatura [[algnum|Algorítmica Numérica]].
+La razón por la que estos dos tipos de números son distintos es porque para representarlos dentro de un computador los tenemos que pasar a binario, y la forma de representarlos en binario cambia un poco si un número es entero o si es racional. Esto tiene un impacto muy importante en la informática. Podrás aprender más sobre todo esto en la asignatura [[AlgNum|Algorítmica Numérica]].
 
 La segunda distinción que tenemos que hacer es cuánto espacio van a ocupar nuestros números. Como los números se guardan en memoria y no tenemos memoria infinita, tenemos que tomar una decisión sobre el número máximo de cifras binarias (1s y 0s) que van a ocupar nuestros números.
 
@@ -45,7 +45,7 @@ El resultado depende del lenguaje, pero generalmente ocurrirá una de 2 cosas:
 > Algunos lenguajes, como Python, nos evitan tener que pensar en el tamaño de los números que vamos a usar. El lenguaje se encarga por si mismo de ir cogiendo memoria según el tamaño de los números que usamos. Esto suele implicar un mayor uso de memoria.
 
 > [!NOTE]
-> Si hay tipos numéricos por defecto (`int32`) ¿Por qué usaríamos cualquier otro tipo si no lo necesitamos? ¿Qué más da usar 32 bits en vez de 8, si la mayoría de ordenadores modernos tienen memoria suficiente? Para aprender más sobre tipos hay una lección más adelante dedicada a ellos: [[contenido/programacion/tipos|Tipos]] y una lección extra que también los menciona: [[comentarios|Comunicación entre programadores]]
+> Si hay tipos numéricos por defecto (`int32`) ¿Por qué usaríamos cualquier otro tipo si no lo necesitamos? ¿Qué más da usar 32 bits en vez de 8, si la mayoría de ordenadores modernos tienen memoria suficiente? Para aprender más sobre tipos hay una lección más adelante dedicada a ellos: [[Tipos|Tipos]] y una lección extra que también los menciona: [[Comentarios|Comunicación entre programadores]]
 
 ### Operadores
 Para poder hacer cosas útiles con los números, necesitamos poder hacer operaciones. Para ello, la mayoría de lenguajes de programación tienen una serie de operadores. Un operador no es más que un carácter o una palabra que el lenguaje reconoce y que junto a sus operandos produce un resultado.
@@ -65,9 +65,9 @@ echo resultado
 *Puedes probar este código [aquí](https://play.nim-lang.org/#ix=4D3f)*
 
 > [!NOTE]
-> En el código anterior, puedes ver una línea que empieza por `#`. Esta línea es lo que llamamos un 'comentario'. El lenguaje la ignora por completo y por tanto solo sirve para dejar comentarios a otras personas que lean el código. Esto es útil para la lección: [[comentarios|Comunicación entre programadores]].
+> En el código anterior, puedes ver una línea que empieza por `#`. Esta línea es lo que llamamos un 'comentario'. El lenguaje la ignora por completo y por tanto solo sirve para dejar comentarios a otras personas que lean el código. Esto es útil para la lección: [[Comentarios|Comunicación entre programadores]].
 
-Veremos más operadores en las siguientes lecciones para poder trabajar con otros tipos de datos. Por ahora, sabiendo como utilizar números, vamos a pasar a utilizar [[strings|Letras]].
+Veremos más operadores en las siguientes lecciones para poder trabajar con otros tipos de datos. Por ahora, sabiendo como utilizar números, vamos a pasar a utilizar [[Strings|Letras]].
 
 [[razonamiento-nim|¿Por qué usar este lenguaje?]]
-[[compilar|Lección anterior]] | [[indice|Volver al índice]] | [[strings|Siguiente lección]]
+[[Compilar|Lección anterior]] | [[Indice|Volver al índice]] | [[Strings|Siguiente lección]]

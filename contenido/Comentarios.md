@@ -4,7 +4,7 @@ Como ya hemos discutido, los programas no son estáticos. Además, generalmente 
 
 Puede parecer que esto solo se aplica a proyectos en equipo, pero lo que vamos a comentar en esta lección también es importante para proyectos personales que pueden llevar un tiempo. No siempre es fácil acordarse de lo que hace nuestro código, cómo lo hace y sobre todo por qué.
 
-Existen varias herramientas para conseguir comunicar el propósito de nuestro código: un código legible es más fácil de descifrar, un buen sistema de tipos hace más claro el propósito de nuestras funciones y nuestras variables, y en general deberíamos intentar [[documentacion|documentar]] nuestro código.
+Existen varias herramientas para conseguir comunicar el propósito de nuestro código: un código legible es más fácil de descifrar, un buen sistema de tipos hace más claro el propósito de nuestras funciones y nuestras variables, y en general deberíamos intentar [[Documentacion|documentar]] nuestro código.
 
 En esta lección nos vamos a centrar en los nombres de nuestras variables y en la utilidad de los comentarios.
 
@@ -58,4 +58,4 @@ Muchas veces nos obcecamos en que un código bueno es un código corto y eficien
 
 Si fuera explícitamente necesario tener una versión del código que ocupase el menor tamaño posible, existen herramientas para hacer justo eso, conocidas como ["minifiers"](https://en.wikipedia.org/wiki/Minification_(programming)). Generalmente, estos programas se utilizan cuando hay que distribuir el código a los usuarios a través de internet e interesa que la transmisión sea rápida. V.g: JavaScript para páginas web.
 
-[[buenas_practicas|Lección anterior]] | [[indice|Volver al índice]] | [[paradigmas|Siguiente parte]]
+[[BuenasPracticas|Lección anterior]] | [[Indice|Volver al índice]] | [[Paradigmas|Siguiente parte]]

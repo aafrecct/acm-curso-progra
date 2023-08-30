@@ -2,7 +2,7 @@
 
 Java es un lenguaje orientado a objetos. Esto quiere decir que la "cosa" principal que maneja el lenguaje son objetos. Un objeto es una instancia de una clase. Una clase es como un tipo de datos, pero un poco más complejo. La diferencia principal es que además de guardar datos, una clase define las operaciones que se pueden hacer con ellos. Es decir, es una mezcla entre datos y funciones que afectan a esos datos.
 
-Esto será importante en [[progra2|Programación 2]] pero por ahora solo nos interesa saber que todos nuestros archivos empezarán con una línea de código del tipo:
+Esto será importante en [[PrograII|Programación 2]] pero por ahora solo nos interesa saber que todos nuestros archivos empezarán con una línea de código del tipo:
 
 ```java
 public class Ejercicio1 {
@@ -18,12 +18,15 @@ public static void main (String[] args) {
 }
 ```
 
-Entenderemos un poco mejor por qué esta función se escribe así una de las últimas lecciones del curso [[ejecucion|"Ejecutar programas"]]. Por ahora vamos a entender como declarar funciones en Java.
+Entenderemos un poco mejor por qué esta función se escribe así una de las últimas lecciones del curso [[Ejecucion|"Ejecutar programas"]]. Por ahora vamos a entender como declarar funciones en Java.
 
 Una función en Java se declara con un tipo (que será el tipo de datos que devuelva la función), un nombre, y una lista de argumentos. La sintaxis exacta es `tipo nombre (tipo arg1, tipo arg2)`. Por ejemplo:
 
+> [!DANGER]
+> A lo largo de todo el curso de Programación 1 todas las funciones que vamos a escribir van a tener la palabra `static` delante. Esta palabra significa que la función pertenece a la clase. La mayoría de funciones que implementemos a partir de Programación 2 **NO** tendrán esta palabra y se explicará por qué, por ahora, los ejemplos van a incluirla por comodidad si se quiere probar el código, pero no es importante entender qué significa.
+
 ```java
-int cuadrado (int numero){}
+static int cuadrado (int numero){}
 ```
 
 Después, el cuerpo de la función, es decir el código, va entre llaves `{}`. En Java, no es necesario 'indentar' el código, o separar entre líneas. Cada bloque de código esta entre llaves para separarlo del resto, y cada instrucción acaba con un punto y coma `;`.
@@ -49,6 +52,6 @@ System.out.println(num_alumnos)
 System.out.format("Hay %d alumnos en clase.", num_alumnos)
 ```
 
-Sabiendo esto, podemos pasar a ver [[contenido/java/tipos|qué tipos tiene Java.]]
+Sabiendo esto, podemos pasar a ver [[JavaTipos|qué tipos tiene Java.]]
 
-[[paradigmas|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/java/tipos|Siguiente lección]]
+[[Paradigmas|Lección anterior]] | [[Indice|Volver al índice]] | [[JavaTipos|Siguiente lección]]

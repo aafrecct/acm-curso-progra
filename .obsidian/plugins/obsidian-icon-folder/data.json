@@ -25,8 +25,8 @@
   "presentaciones": "RiSlideshowFill",
   "contenido": "RiApps2Fill",
   "razonamiento": "RiAncientGateFill",
-  "contenido/indice.md": "RiListCheck",
   "organizacion": "RiLayout2Fill",
   "organizacion/objectivos.md": "RiRocket2Fill",
-  "organizacion/tracker.md": "RiCheckFill"
+  "organizacion/tracker.md": "RiCheckFill",
+  "contenido/Indice.md": "RiListCheck"
 }

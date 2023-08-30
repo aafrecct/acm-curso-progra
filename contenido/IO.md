@@ -17,9 +17,9 @@ echo "Hola " & nombre
 ```
 
 > [!NOTE]
-> De cara a mostrar texto, suele haber muchas opciones: cuantas cosas quieres mostrar, separadas o no, en distintas líneas o no, etc. Y la mayoría de lenguajes de programación modernos nos ofrecen herramientas ya preparadas para hacerlo todo, solo hay que saber como buscarlo o saber navegar [[extra/documentacion|la documentación oficial de un lenguaje]].
+> De cara a mostrar texto, suele haber muchas opciones: cuantas cosas quieres mostrar, separadas o no, en distintas líneas o no, etc. Y la mayoría de lenguajes de programación modernos nos ofrecen herramientas ya preparadas para hacerlo todo, solo hay que saber como buscarlo o saber navegar [[Documentacion|la documentación oficial de un lenguaje]].
 
 Con esto hemos terminado esta lección, lo importante **NO** es que tengas una comprensión completa de todo lo que hay en esta página, sino que entiendas que casi todos los lenguajes tienen una forma de _imprimir_ mensajes por pantalla y que conozcas los términos para buscarlo y aplicarlo a varios lenguajes. Además, ahora deberías entender lo que significa la palabra `echo` en los ejemplos.
 
 [[razonamiento-nim|¿Por qué usar este lenguaje?]]
-[[strings|Lección anterior]] | [[indice|Volver al índice]]  | [[contenido/programacion/control_flujo|Siguiente lección]]
+[[Strings|Lección anterior]] | [[Indice|Volver al índice]]  | [[Condiciones|Siguiente lección]]

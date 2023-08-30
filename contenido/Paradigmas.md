@@ -23,13 +23,13 @@ Más recientemente se ha vuelto muy popular la programación orientada a objetos
 
 Si quiero hacer un programa para manejar mi clase de alumnos, con lo que sabemos por ahora, podríamos tener un array con las notas, un array con los nombres, etc. Y funciones para imprimir los datos o calcular las medias. 
 
-En un lenguaje orientado a objetos, tendríamos un tipo de datos especial llamado "Alumno" que tendía los datos sobre su nombre, sus notas y funciones propias para calcular su media. En Programación I no vamos a aprender a utilizar objetos, eso es temario de [[progra2| Programación 2]]. Pero Java está muy enfocado a objetos, por lo que no podemos ignorarlo por completo, y va a tener algunas consecuencias en como programamos, como veremos dentro de poco. 
+En un lenguaje orientado a objetos, tendríamos un tipo de datos especial llamado "Alumno" que tendía los datos sobre su nombre, sus notas y funciones propias para calcular su media. En Programación I no vamos a aprender a utilizar objetos, eso es temario de [[PrograII| Programación 2]]. Pero Java está muy enfocado a objetos, por lo que no podemos ignorarlo por completo, y va a tener algunas consecuencias en como programamos, como veremos dentro de poco. 
 
 ### Programación declarativa 
 Sin embargo, la programación imperativa no es la única forma de abstraer las operaciones de un computador. Una manera más matemática es la programación declarativa. 
 
-En programación declarativa, lo que hacemos es describir el estado final de la máquina, normalmente de manera matemática, en vez de dar las instrucciones, paso a paso, de como llegar a ese estado. En la carrera se pueden llegar a ver dos tipos de programación declarativa: la programación lógica con [[prolog|Prolog]] y la más común programación funcional. 
+En programación declarativa, lo que hacemos es describir el estado final de la máquina, normalmente de manera matemática, en vez de dar las instrucciones, paso a paso, de como llegar a ese estado. En la carrera se pueden llegar a ver dos tipos de programación declarativa: la programación lógica con [[Prolog|Prolog]] y la más común programación funcional. 
 
 En la programación funcional, todo son funciones. Nuevas funciones se pueden definir a partir de otras funciones primitivas. Los programas funcionales son mucho más fáciles de analizar estáticamente, hasta el punto que algunos lenguajes, como Elm, aseguran que el código final generado estará libre de errores de ejecución. Sin embargo, puede ser un poco complicado adaptarse a esta forma de programar.
 
-[[comentarios|Lección anterior]] | [[indice|Volver al índice]] | [[estructura|Siguiente parte]]
+[[Comentarios|Lección anterior]] | [[Indice|Volver al índice]] | [[JavaIntro|Siguiente parte]]

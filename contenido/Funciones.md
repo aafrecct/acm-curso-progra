@@ -1,10 +1,10 @@
 # Funciones
 > [!NOTE]
-> Esta lección muestra como trabajar con funciones y procedimientos, lo que son, su utilidad, su influencia y su ubicuidad. Hay otra lección con una explicación más detallada sobre funciones específicamente en Java y su sintaxis [[contenido/java/funciones|aquí]].
+> Esta lección muestra como trabajar con funciones y procedimientos, lo que son, su utilidad, su influencia y su ubicuidad. Hay otra lección con una explicación más detallada sobre funciones específicamente en Java y su sintaxis [[JavaFunciones|aquí]].
 
 Muchas de las tareas que tenemos que hacer cuando programamos son muy parecidas entre sí. A lo mejor cambian los datos sobre los que tenemos que hacerlas, a veces hay que hacer cosas muy similares en momentos muy distintos en la ejecución de nuestro programa, otras veces simplemente viene bien ponerle un nombre a alguna operación compleja que vamos a hacer de manera repetida. Para todas estas cosas usamos funciones.
 
-Las funciones, igual que en matemáticas producen un resultado a partir de un número de inputs, parámetros o argumentos. Las funciones son tan importantes que hay un [[paradigmas|paradigma de programación]] que se basa únicamente en ellas.
+Las funciones, igual que en matemáticas producen un resultado a partir de un número de inputs, parámetros o argumentos. Las funciones son tan importantes que hay un [[Paradigmas|paradigma de programación]] que se basa únicamente en ellas.
 
 Cuando hablamos de funciones en programación, es posible que escuchemos hablar de varios otros nombres: procedimientos ('procedures') o métodos (methods). Por ejemplo, en Nim (el lenguaje de los ejemplos) la palabra que utilizamos para crear una función es `proc`. Estos tres conceptos tienen sus importantes diferencias, pero se salen mucho del objetivo del curso. Por ahora, vamos a hacer de buenos programadores y llamar a todo 'funciones'.
 
@@ -48,4 +48,4 @@ Por tanto en nuestro ejemplo estamos imprimiendo `15` y `1` respectivamente. Pue
 Con esto, prácticamente tenemos todas las partes esenciales para aprender los conceptos básicos de cualquier lenguaje de programación imperativo. Obviamente, cada lenguaje de programación tiene sus peculiaridades y todos hacen varias cosas especiales para hacer algunos cálculos más fáciles, o más rápidos, o más seguros, por todo esto, aprender un nuevo lenguaje no es trivial, pero con estas herramientas, puedes ir haciendo las preguntas adecuadas sobre cómo hacer determinadas cosas y por qué.
 
 [[razonamiento-nim|¿Por qué usar este lenguaje?]] 
-[[colecciones|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/programacion/tipos|Siguiente parte]]
+[[Colecciones|Lección anterior]] | [[Indice|Volver al índice]] | [[Tipos|Siguiente parte]]

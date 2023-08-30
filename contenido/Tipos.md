@@ -1,10 +1,10 @@
 # Tipos de datos
 > [!NOTE]
-> Esta lección muestra los distintos tipos de datos básicos que podemos encontrar en múltiples lenguajes de programación. Hay otra lección con una explicación más detallada de los tipos de datos que podemos encontrar específicamente en Java y su sintaxis [[contenido/java/tipos|aquí]].
+> Esta lección muestra los distintos tipos de datos básicos que podemos encontrar en múltiples lenguajes de programación. Hay otra lección con una explicación más detallada de los tipos de datos que podemos encontrar específicamente en Java y su sintaxis [[JavaTipos|aquí]].
 
 Como ya hemos visto, toda la información que maneja un ordenador son números; sin embargo, para que programar nos resulte de utilidad, muchas veces necesitamos utilizar otros tipos de datos: valores de verdadero o falso, frases y palabras, o estructuras más complejas.
 
-Para poder trabajar con estos datos necesitamos codificarlos, es decir, establecer un código, en binario, para representar, por ejemplo, una letra. Todo esto ya lo vimos en la lección sobre [[strings]]. Sin embargo, para saber como decodificarlos, el lenguaje de programación necesita saber el tipo de datos en cuestión. 
+Para poder trabajar con estos datos necesitamos codificarlos, es decir, establecer un código, en binario, para representar, por ejemplo, una letra. Todo esto ya lo vimos en la lección sobre [[Strings]]. Sin embargo, para saber como decodificarlos, el lenguaje de programación necesita saber el tipo de datos en cuestión. 
 
 Por esta razón, los lenguajes tienen palabras reservadas para identificar los distintos tipos de datos. Estas palabras cambian un poco entre lenguajes, pero en general se parecen bastante entre sí. Son justo las que hemos estado utilizando al declarar variables: `int`, `uint`, `float`, `char`, `string`, `bool`...
 
@@ -66,4 +66,4 @@ type Alumno = object
 	num_matricula: string
 ```
 
-[[contenido/programacion/funciones|Lección anterior]] | [[indice|Volver al índice]] | [[null|Siguiente lección]]
+[[Funciones|Lección anterior]] | [[Indice|Volver al índice]] | [[Null|Siguiente lección]]

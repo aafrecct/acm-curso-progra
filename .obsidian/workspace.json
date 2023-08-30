@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/Documentacion.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/Documentacion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/Documentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organizacion/tracker.md"
+                "file": "contenido/Documentacion.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "9302f40c561bf35f",
   "lastOpenFiles": [
-    "contenido/java/control_flujo.md",
-    "contenido/java/tipos.md",
-    "contenido/programacion/control_flujo.md",
     "organizacion/tracker.md",
-    "contenido/indice.md",
-    "contenido/asignaturas/prolog.md",
-    "contenido/extra/paradigmas.md",
+    "contenido/Documentacion.md",
+    "contenido/Indice.md",
+    "contenido/Ejecucion.md",
+    "readme.md",
+    "contenido/Compilar.md",
+    "contenido/Ensamblador.md",
+    "contenido/CPU.md",
+    "contenido/SSDig.md",
+    "contenido/Computabilidad.md",
+    "contenido/Fisica.md",
+    "contenido/EstruArqui.md",
+    "contenido/AlgNum.md",
+    "contenido/BuenasPracticas.md",
+    "contenido/Paradigmas.md",
+    "contenido/Tipos.md",
+    "contenido/Condiciones.md",
+    "contenido/JavaBucles.md",
+    "contenido/README.md",
+    "contenido/JavaTipos.md",
+    "contenido/JavaFunciones.md",
+    "contenido/JavaIntro.md",
+    "contenido/JavaCondiciones.md",
+    "contenido/Funciones.md",
+    "contenido/Prolog.md",
     "index.html",
-    "contenido/extra/comentarios.md",
-    "contenido/extra/documentacion.md",
-    "contenido/extra/ejecucion.md",
-    "contenido/java/funciones.md",
-    "contenido/java/bucles.md",
-    "contenido/programacion/funciones.md",
-    "contenido/programacion/bucles.md",
-    "razonamiento/razonamiento-memoria.md",
-    "contenido/java/estructura.md",
-    "contenido/java/operadores.md",
-    "contenido/extra/buenas_practicas.md",
-    "contenido/programacion/errores.md",
-    "contenido/programacion/tipos.md",
-    "contenido/programacion/null.md",
-    "contenido/programacion/numeros.md",
-    "contenido/programacion/colecciones.md",
-    "organizacion/objectivos.md",
-    "contenido/programacion/io.md",
-    "contenido/programacion/strings.md",
+    "contenido/Comentarios.md",
     "presentaciones/sesion1/pnpm-lock.yaml",
     "presentaciones/sesion1/pnpm-lock.yaml.909161214",
     "presentaciones/sesion1/node_modules/@polka",

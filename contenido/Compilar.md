@@ -1,6 +1,6 @@
 # ¿Qué es compilar?
 > [!NOTE]
-> El contenido de esta parte tiene que ver con las asignaturas [[pdl-tdl| PDL y TDL]] que son asignaturas de tercero. Sin embargo solo cogemos las partes básicas y más relevantes para tener una idea de lo que significa "compilar".
+> El contenido de esta parte tiene que ver con las asignaturas [[PDL| PDL y TDL]] que son asignaturas de tercero. Sin embargo solo cogemos las partes básicas y más relevantes para tener una idea de lo que significa "compilar".
 
 Con el tiempo, los computadores se han ido volviendo más potentes, y la necesidad de programar en ensamblador para tener control absoluto sobre unos recursos muy limitados ha ido desapareciendo. En ese tiempo se han desarrollado lenguajes que llamamos "de alto nivel" que abstraen muchos conceptos de la programación en ensamblador.
 
@@ -18,7 +18,7 @@ var radio = 2
 var area = calc_area(radio)
 ```
 
-No te preocupes, no hace falta que entiendas el código anterior para terminar esta lección, las funciones tienen su propia lección un poco más adelante: [[contenido/programacion/funciones|Funciones]].
+No te preocupes, no hace falta que entiendas el código anterior para terminar esta lección, las funciones tienen su propia lección un poco más adelante: [[Funciones|Funciones]].
 
 Aún así, los computadores siguen entendiendo solo binario, así que necesitamos una forma de transformar nuestro código de alto nivel en algo que la máquina pueda entender. Este proceso se llama "compilar".
 Muchas veces "compilar" no es más que darle a un botón en el editor que estemos usando para escribir nuestro programa, sin embargo, un compilador es un programa más como cualquier otro.
@@ -30,4 +30,4 @@ Cuando queremos aprender un nuevo lenguaje de programación y utilizarlo en nues
 Para la siguiente parte del curso sin embargo, no hace falta compilar nada, por lo menos manualmente, todos los ejemplos pueden ejecutarse desde la [siguiente página](https://play.nim-lang.org). Pero atención,  eso no significa que el código no se compile, simplemente se esta compilando en el servidor que tiene la página web y mostrando los resultados.
 
 [[razonamiento-introduccion|¿Por qué es esto importante?]]
-[[ensamblador|Lección anterior]] | [[indice|Volver al índice]] | [[numeros|Siguiente parte]]
+[[Ensamblador|Lección anterior]] | [[Indice|Volver al índice]] | [[Numeros|Siguiente parte]]

@@ -1,10 +1,10 @@
 # Colecciones
 > [!NOTE]
-> Esta lección muestra como trabajar con colecciones de datos, es decir múltiples datos relacionados. Hay otra lección con una explicación más detallada de los tipos de datos que podemos encontrar específicamente en Java y su sintaxis [[contenido/java/tipos|aquí]].
+> Esta lección muestra como trabajar con colecciones de datos, es decir múltiples datos relacionados. Hay otra lección con una explicación más detallada de los tipos de datos que podemos encontrar específicamente en Java y su sintaxis [[JavaTipos|aquí]].
 
 Poder hacer operaciones con datos discretos, es útil, sin duda, pero para la inmensa mayoría de aplicaciones informáticas es casi imprescindible poder almacenar datos del mismo tipo juntos, de forma que se puedan procesar fácilmente en un bucle (por ejemplo).
 
-La pregunta de "¿Cómo guardamos datos juntos?" no es sencilla, y será importante en las asignaturas de [[progra2|Programación 2]] y [[aed|AED]]. Existen muchas estructuras de datos y cada una tiene sus ventajas y sus desventajas, y por lo tanto se adaptan mejor o peor a determinadas situaciones.
+La pregunta de "¿Cómo guardamos datos juntos?" no es sencilla, y será importante en las asignaturas de [[PrograII|Programación 2]] y [[AED|AED]]. Existen muchas estructuras de datos y cada una tiene sus ventajas y sus desventajas, y por lo tanto se adaptan mejor o peor a determinadas situaciones.
 
 Por ahora, solo vamos a dar una pincelada, vamos a ver qué es una colección, algunos tipos de colecciones por encima, y sobretodo veremos una de las más primitivas, que es la que vamos a usar en este curso: el "Array".
 
@@ -40,4 +40,4 @@ Además podemos 'recorrer' los elementos de un array, como podemos ver en el buc
 Esto es todo lo que necesitamos saber por ahora sobre los arrays: son una forma de guardar una "lista" de datos. ¿Porqué se llaman "arrays" y no "listas"? Pues porque en general "lista" es el término que utilizamos para otro tipo de colección, que por ahora no nos interesa.
 
 [[razonamiento-nim|¿Por qué usar este lenguaje?]]
-[[contenido/programacion/bucles|Lección anterior]] | [[indice|Volver al índice]] | [[contenido/programacion/funciones|Siguiente lección]]
+[[Bucles|Lección anterior]] | [[Indice|Volver al índice]] | [[Funciones|Siguiente lección]]
