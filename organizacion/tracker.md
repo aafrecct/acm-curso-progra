@@ -33,8 +33,8 @@
 	- [x] \[Extra\] [[Documentacion|Documentación]]
 
 - [x] Otros
-	- [x] [[razonamiento-introduccion]]
-	- [x] [[razonamiento-nim]]
+	- [x] [[RazonamientoIntro]]
+	- [x] [[RazonamientoNim]]
 
 - [ ] Presentaciones
 	- [ ] sesión 1

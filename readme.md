@@ -8,7 +8,7 @@
 
 Este cursillo pretende servir como una formación teórica completa equivalente al curso "Programación I" de la ETSIINF en la Universidad Politécnica de Madrid. La práctica necesaria se deja en manos del alumno o alumna, aunque la intención es ofrecer algún ejercicio como ejemplo que se pueda replicar y expandir.
 
-El contenido del curso se encuentra en el directorio `/contenido/` que cuenta con un índice y links de navegación al final de cada página. Los ejemplos principales de la parte de programación están escritos en [Nim](https://nim-lang.org/), para probarlos sin tener que instalar el lenguaje se puede usar [Nim Playground](https://play.nim-lang.org/). Para entender porque he elegido Nim para el comienzo del curso hay un documento: [[razonamiento/razonamiento-nim]]
+El contenido del curso se encuentra en el directorio `/contenido/` que cuenta con un índice y links de navegación al final de cada página. Los ejemplos principales de la parte de programación están escritos en [Nim](https://nim-lang.org/), para probarlos sin tener que instalar el lenguaje se puede usar [Nim Playground](https://play.nim-lang.org/). Para entender porque he elegido Nim para el comienzo del curso hay un documento: [[RazonamientoNim]]
 
 El objetivo es conseguir un conocimiento básico de lo que significa programar primero, y luego aplicarlo al lenguaje de programación [Java], de esta manera el conocimiento obtenido es más flexible y permite adaptarse más fácilmente al resto de asignaturas de la carrera.
 

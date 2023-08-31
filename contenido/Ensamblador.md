@@ -29,5 +29,5 @@ Lo que vamos a ver en este curso se suele llamar "programación de alto nivel", 
 
 Pero primero vamos a ver un poco sobre el proceso de crear esos lenguajes y traducirlos de vuelta a 1s y 0s. Ese proceso se llama [[Compilar|Compilación]].
 
-[[razonamiento-introduccion|¿Por qué es esto importante?]]
+[[RazonamientoIntro|¿Por qué es esto importante?]]
 [[CPU|Lección anterior]] | [[Indice|Volver al índice]] | [[Compilar|Siguiente lección]]

@@ -93,5 +93,5 @@ En muchos lenguajes, además hay una palabra reservada para salir de cualquier b
 
 Con esto podemos avanzar hacia la siguiente lección, que trata de como agrupar datos juntos. Como se puede intuir, los bucles son necesarios para poder tratar con datos similares que están agrupados. El nombre más genérico para estos grupos de datos es [[Colecciones|Colecciones]].
 
-[[razonamiento-nim|¿Por qué usar este lenguaje?]]
+[[RazonamientoNim|¿Por qué usar este lenguaje?]]
 [[Condiciones|Lección anterior]] | [[Indice|Volver al índice]] | [[Colecciones|Siguiente lección]]

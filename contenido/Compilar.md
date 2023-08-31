@@ -29,5 +29,5 @@ Cuando queremos aprender un nuevo lenguaje de programación y utilizarlo en nues
 
 Para la siguiente parte del curso sin embargo, no hace falta compilar nada, por lo menos manualmente, todos los ejemplos pueden ejecutarse desde la [siguiente página](https://play.nim-lang.org). Pero atención,  eso no significa que el código no se compile, simplemente se esta compilando en el servidor que tiene la página web y mostrando los resultados.
 
-[[razonamiento-introduccion|¿Por qué es esto importante?]]
+[[RazonamientoIntro|¿Por qué es esto importante?]]
 [[Ensamblador|Lección anterior]] | [[Indice|Volver al índice]] | [[Numeros|Siguiente parte]]

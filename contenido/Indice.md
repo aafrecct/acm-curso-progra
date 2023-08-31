@@ -1,6 +1,6 @@
 # Índice
 
-1) ¿Que es programar?
+1) ¿Qué es programar?
 	1) [[CPU|¿Cómo funciona un ordenador?]]
 	2) [[Ensamblador|Ensamblador]]
 	3) [[Compilar|¿Qué es compilar?]]

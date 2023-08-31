@@ -39,5 +39,5 @@ Además podemos 'recorrer' los elementos de un array, como podemos ver en el buc
 
 Esto es todo lo que necesitamos saber por ahora sobre los arrays: son una forma de guardar una "lista" de datos. ¿Porqué se llaman "arrays" y no "listas"? Pues porque en general "lista" es el término que utilizamos para otro tipo de colección, que por ahora no nos interesa.
 
-[[razonamiento-nim|¿Por qué usar este lenguaje?]]
+[[RazonamientoNim|¿Por qué usar este lenguaje?]]
 [[Bucles|Lección anterior]] | [[Indice|Volver al índice]] | [[Funciones|Siguiente lección]]

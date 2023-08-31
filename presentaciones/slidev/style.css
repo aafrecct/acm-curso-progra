@@ -1,0 +1,44 @@
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(to right bottom, #e0a0da, #c7b3ee, #b2c3f4, #abd0f1, #b3d9e9);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  padding-bottom: 1rem;
+}
+
+h3 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(to right bottom, #d48d8d, #de94a1, #e69db7, #e9a7ce, #e9b3e4);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
+.slidev-code {
+  font-size: 1.2rem !important;
+  line-height: 140% !important;
+}
+
+.slidev-layout {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.lang {
+  top: -10px;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+  font-size: 1rem;
+}
+
+.shiki-container {
+  max-height: 92%;
+  overflow-y: scroll;
+}

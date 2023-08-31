@@ -40,7 +40,7 @@ Además muchas veces necesitamos combinar condiciones o invertirlas (negarlas), 
 
 Hay muchos diversos operadores para hacer comprobaciones y son distintos en cada lenguaje de programación. Por tanto, según vamos aprendiendo un lenguaje, nos iremos familiarizando con sus operadores.
 
-### If (This) Then That Else What?
+### If (This) Then {That} Else What?
 Tenemos casi todas las herramientas necesarias para plantearnos cómo haríamos el ejercicio planteado al comienzo de esta lección, pero primero tenemos que aprender sobre uno de los conceptos más importantes de la programación de alto nivel. Tan importante que hay múltiples bromas en internet sobre que la Inteligencia Artificial no es más que una consecuencia de este concepto. Me refiero a los bloques 'if-then-else'. 
 
 ¿Qué es un bloque 'if-then-else'? Es la forma principal con la que expresamos condiciones en programación. Tienen la siguiente forma:

@@ -31,5 +31,5 @@ En el fondo, las instrucciones que le damos a un ordenador son cadenas de 1s y 0
 
 Como es obvio, es muy complicado entender qué estamos haciendo cuando solo podemos leer 1s y 0s, por tanto, existen 'proto-lenguajes' que hacen que estas lineas de binario sean más fáciles de entender. Estos lenguajes son lo que llamamos [[Ensamblador]].
 
-[[razonamiento-introduccion|¿Por qué es esto importante?]]
+[[RazonamientoIntro|¿Por qué es esto importante?]]
 [[Indice|Volver al índice]] | [[Ensamblador|Siguiente lección]]
