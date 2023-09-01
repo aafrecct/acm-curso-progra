@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contenido/Bucles.md",
-                "mode": "preview",
+                "file": "organizacion/tracker.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contenido/Bucles.md",
+                "file": "contenido/RazonamientoNim.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contenido/Bucles.md",
+                "file": "contenido/RazonamientoNim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contenido/Bucles.md"
+                "file": "contenido/RazonamientoNim.md"
               }
             }
           }
@@ -171,8 +171,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "14200d5fef2c4001",
+  "active": "7f3ab11405290dda",
   "lastOpenFiles": [
+    "organizacion/tracker.md",
+    "organizacion/objectivos.md",
+    "contenido/Bucles.md",
     "presentaciones/slidev/4913",
     "contenido/Condiciones.md",
     "contenido/IO.md",
@@ -201,7 +204,6 @@
     "contenido/RazonamientoIntro.md",
     "contenido/RazonamientoNim.md",
     "contenido/Documentacion.md",
-    "organizacion/tracker.md",
     "contenido/Ejecucion.md",
     "readme.md",
     "contenido/Ensamblador.md",
@@ -210,7 +212,6 @@
     "contenido/Computabilidad.md",
     "contenido/Fisica.md",
     "contenido/EstruArqui.md",
-    "contenido/AlgNum.md",
-    "contenido/BuenasPracticas.md"
+    "contenido/AlgNum.md"
   ]
 }

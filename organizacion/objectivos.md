@@ -1,4 +1,4 @@
-# Objectivos
+# Objetivos
 
 - trasmitir claramente los objetivos de la asignatura
 - dar una pincelada sobre la base de la programación

@@ -23,7 +23,7 @@
 	- [x] \[Extra\] [[Comentarios|Comunicación entre programadores]]
 	- [x] \[Extra\] [[Paradigmas|Nota sobre paradigmas de programación]]
 
-- [ ] Java
+- [x] Java
 	- [x] [[JavaIntro|Estructura básica del código]]
 	- [x] [[JavaTipos|Tipos]]
 	- [x] [[JavaCondiciones|Control de flujo]]
