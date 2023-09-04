@@ -1,5 +1,5 @@
 {
-  "name": "sesion1",
+  "name": "slides",
   "private": true,
   "scripts": {
     "build": "slidev build",
@@ -7,8 +7,12 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.42.7",
+    "@slidev/cli": "^0.43.0-beta.3",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "@iconify-json/line-md": "^1.1.29",
+    "@iconify-json/uim": "^1.1.6"
   }
 }

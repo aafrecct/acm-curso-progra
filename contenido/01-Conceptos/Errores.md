@@ -8,10 +8,8 @@ Aunque a todos nos gustaría pensar lo contrario, cuando programamos cometemos e
 	_Hemos hecho algo raro y mientras nuestro programa se estaba ejecutando ha aparecido un error. A veces es por operar con una referencia nula, por dividir entre 0, hay muchas razones._
 - **Bugs**:
 	_Nuestro programa funciona... Pero no hace lo que queremos que haga, hemos cometido algún error en la lógica de nuestro programa que hace que los resultados no sean correctos._
-- **Errores de seguridad:**
+- **Otros (errores de seguridad, de performance, etc):**
 	_Nuestro programa funciona bien y hace lo que tiene que hacer, pero si alguien se pusiera a intentar romperlo, a lo mejor podría añadir datos malos a nuestra base de datos, tenemos que añadir medidas de seguridad._
-
-Y estos no son todos.
 
 Sin embargo, de cara a nuestro lenguaje solo 2 de estos errores son visibles: Los errores de compilación y los errores de ejecución. El resto son errores para nosotros ya que para nuestro lenguaje, el programa esta funcionando sin problema.
 
@@ -41,7 +39,7 @@ try {
 	c = b / a
 } catch (ArithmeticException e) {
 	System.out.println("División entre 0")
-	c = b
+	c = 0
 }
 ```
 

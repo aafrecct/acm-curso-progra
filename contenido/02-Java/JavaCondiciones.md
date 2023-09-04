@@ -10,7 +10,7 @@ if (num_alumnos > 150) {
 	System.out.println("¿Como consigues que tantos alumnos" + 
 					   "vayan a tu clase?");
 } else {
-	System.out.println("Debes de dar alguna optativa...")
+	System.out.println("Debes de dar alguna optativa...");
 }
 ```
 
@@ -39,7 +39,7 @@ int numero_ganador_2 = 68;
 int tu_numero = 23;
 
 if (tu_numero == numero_ganador_1 || tu_numero == numero_ganador_2) {
-	Sysyem.out.println("¡Has ganado!")
+	SystSSem.out.println("¡Has ganado!")
 }
 ```
 *Recuerda, en Java, los operadores `and`, `or` y `not` se escriben `&&`, `||`, `!` respectivamente.*

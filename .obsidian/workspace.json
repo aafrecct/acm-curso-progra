@@ -8,38 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9302f40c561bf35f",
+            "id": "14200d5fef2c4001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contenido/RazonamientoIntro.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7f3ab11405290dda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contenido/RazonamientoNim.md",
+                "file": "contenido/Indice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14200d5fef2c4001",
+            "id": "d6db5d808f937059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organizacion/tracker.md",
+                "file": "contenido/02-Java/JavaBucles.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contenido/RazonamientoNim.md",
+                "file": "contenido/02-Java/JavaBucles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contenido/RazonamientoNim.md",
+                "file": "contenido/02-Java/JavaBucles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contenido/RazonamientoNim.md"
+                "file": "contenido/02-Java/JavaBucles.md"
               }
             }
           }
@@ -171,47 +159,46 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7f3ab11405290dda",
+  "active": "d6db5d808f937059",
   "lastOpenFiles": [
-    "organizacion/tracker.md",
-    "organizacion/objectivos.md",
-    "contenido/Bucles.md",
-    "presentaciones/slidev/4913",
-    "contenido/Condiciones.md",
-    "contenido/IO.md",
-    "contenido/Strings.md",
-    "contenido/Numeros.md",
+    "presentaciones/slides/4913",
+    "contenido/02-Java/JavaCondiciones.md",
+    "contenido/02-Java/JavaTipos.md",
+    "contenido/02-Java/JavaIntro.md",
     "contenido/Indice.md",
-    "contenido/Paradigmas.md",
-    "presentaciones/slidev/dist/assets/timeline-definition-df0f8466-3f468c1d.js",
-    "presentaciones/slidev/dist/assets/svgDrawCommon-703c6069-f4c0129a.js",
-    "presentaciones/slidev/dist/assets/svgDraw-d3f2a258-b6daca25.js",
-    "presentaciones/slidev/dist/assets/styles-d22f4783-deef44a7.js",
-    "presentaciones/slidev/dist/assets/styles-5664cd4f-f3e58a79.js",
-    "presentaciones/slidev/dist/assets/styles-4f00232b-41c3638c.js",
-    "presentaciones/slidev/dist/assets/stateDiagram-v2-ba87491d-33c8036f.js",
-    "presentaciones/slidev/dist/assets/stateDiagram-fa6ef012-695058d5.js",
-    "presentaciones/slidev/dist/assets/sequenceDiagram-80aafbb8-c263b676.js",
-    "presentaciones/slidev/dist/assets/logo-title-horizontal-96c3c915.png",
-    "presentaciones/slidev/dist/assets/logo-b72bde5d.png",
+    "contenido/R1-Asignaturas/AlgNum.md",
+    "contenido/02-Java/JavaBucles.md",
+    "contenido/R2-Razonamientos",
+    "contenido/R1-Asignaturas",
+    "contenido/03-Extra",
+    "contenido/02-Java",
+    "contenido/01-Conceptos",
+    "contenido/00-Cimientos",
+    "contenido/03-Extra/Paradigmas.md",
+    "contenido/03-Extra/Comentarios.md",
+    "contenido/03-Extra/BuenasPracticas.md",
+    "contenido/01-Conceptos/Errores.md",
+    "presentaciones/slides/_tmp_67623_a77accd3c79cdd6a7afffff42173b375",
+    "presentaciones/slides/_tmp_67361_2842be12f1b9f922f3069fac49991953",
+    "contenido/01-Conceptos/Null.md",
+    "contenido/01-Conceptos/Tipos.md",
+    "contenido/01-Conceptos/Funciones.md",
+    "presentaciones/slides/style.css",
+    "presentaciones/slides/slides.md",
+    "presentaciones/slides/pages/multiple-entries.md",
+    "presentaciones/slides/README.md",
+    "contenido/01-Conceptos/Colecciones.md",
+    "contenido/01-Conceptos/Bucles.md",
     "presentaciones/slidev/pages/multiple-entries.md",
     "presentaciones/slidev/slides.md",
     "presentaciones/slidev/README.md",
-    "contenido/Compilar.md",
+    "organizacion/tracker.md",
+    "organizacion/objectivos.md",
+    "contenido/R2-Razonamientos/RazonamientoNim.md",
+    "contenido/R2-Razonamientos/RazonamientoIntro.md",
+    "presentaciones/slidev/dist/assets/logo-title-horizontal-96c3c915.png",
+    "presentaciones/slidev/dist/assets/logo-b72bde5d.png",
     "presentaciones/sesion1/dist/assets/logo-title-horizontal-96c3c915.png",
-    "presentaciones/sesion1/dist/assets/logo-b72bde5d.png",
-    "presentaciones/sesion1/slides.md",
-    "contenido/RazonamientoIntro.md",
-    "contenido/RazonamientoNim.md",
-    "contenido/Documentacion.md",
-    "contenido/Ejecucion.md",
-    "readme.md",
-    "contenido/Ensamblador.md",
-    "contenido/CPU.md",
-    "contenido/SSDig.md",
-    "contenido/Computabilidad.md",
-    "contenido/Fisica.md",
-    "contenido/EstruArqui.md",
-    "contenido/AlgNum.md"
+    "presentaciones/sesion1/dist/assets/logo-b72bde5d.png"
   ]
 }

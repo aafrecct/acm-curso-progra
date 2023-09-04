@@ -12,15 +12,15 @@ A lo largo del curso ya hemos usado una función que se introdujo en la lección
 
 ```nim
 proc mcd(num1: int, num2: int): int =
-  var max: int
+  var min: int
   var mcd: int
   
-  if num1 > num2:
-    max = num1
+  if num1 < num2:
+    min = num1
   else:
-    max = num2
+    min = num2
   
-  for i in 1..max:
+  for i in 1..min:
     if num1 mod i == 0 and num2 mod i == 0:
       mcd = i
   
