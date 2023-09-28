@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b52881ce4ebde1d4",
+        "id": "15546637e6e1e608",
         "type": "tabs",
         "children": [
           {
-            "id": "14200d5fef2c4001",
+            "id": "8c25085c8b836035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contenido/Indice.md",
+                "file": "Indice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6db5d808f937059",
+            "id": "1195c78dbff6a4cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contenido/02-Java/JavaBucles.md",
+                "file": "02-Java/JavaTipos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contenido/02-Java/JavaBucles.md",
+                "file": "02-Java/JavaTipos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contenido/02-Java/JavaBucles.md",
+                "file": "02-Java/JavaTipos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contenido/02-Java/JavaBucles.md"
+                "file": "02-Java/JavaTipos.md"
+              }
+            }
+          },
+          {
+            "id": "6e222cb76503b8d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -156,46 +166,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "d6db5d808f937059",
+  "active": "1195c78dbff6a4cc",
   "lastOpenFiles": [
-    "presentaciones/slides/4913",
+    "Indice.md",
+    "contenido/01-Conceptos/IO.md",
+    "contenido/01-Conceptos/Strings.md",
+    "contenido/01-Conceptos/Numeros.md",
+    "contenido/00-Cimientos/Compilar.md",
+    "contenido/00-Cimientos/Ensamblador.md",
+    "contenido/00-Cimientos/CPU.md",
+    "contenido/Indice.md",
+    "contenido/02-Java/JavaFunciones.md",
+    "contenido/03-Extra/Ejecucion.md",
+    "contenido/02-Java/JavaBucles.md",
     "contenido/02-Java/JavaCondiciones.md",
     "contenido/02-Java/JavaTipos.md",
     "contenido/02-Java/JavaIntro.md",
-    "contenido/Indice.md",
+    "contenido/03-Extra/Paradigmas.md",
+    "contenido/03-Extra/Comentarios.md",
+    "contenido/03-Extra/BuenasPracticas.md",
+    "contenido/01-Conceptos/Errores.md",
+    "contenido/01-Conceptos/Null.md",
+    "contenido/01-Conceptos/Tipos.md",
+    "contenido/01-Conceptos/Funciones.md",
+    "contenido/01-Conceptos/Colecciones.md",
+    "contenido/01-Conceptos/Bucles.md",
+    "contenido/01-Conceptos/Condiciones.md",
+    "contenido/R1-Asignaturas/Fisica.md",
+    "presentaciones/slides/4913",
     "contenido/R1-Asignaturas/AlgNum.md",
-    "contenido/02-Java/JavaBucles.md",
     "contenido/R2-Razonamientos",
     "contenido/R1-Asignaturas",
     "contenido/03-Extra",
     "contenido/02-Java",
     "contenido/01-Conceptos",
     "contenido/00-Cimientos",
-    "contenido/03-Extra/Paradigmas.md",
-    "contenido/03-Extra/Comentarios.md",
-    "contenido/03-Extra/BuenasPracticas.md",
-    "contenido/01-Conceptos/Errores.md",
     "presentaciones/slides/_tmp_67623_a77accd3c79cdd6a7afffff42173b375",
     "presentaciones/slides/_tmp_67361_2842be12f1b9f922f3069fac49991953",
-    "contenido/01-Conceptos/Null.md",
-    "contenido/01-Conceptos/Tipos.md",
-    "contenido/01-Conceptos/Funciones.md",
     "presentaciones/slides/style.css",
-    "presentaciones/slides/slides.md",
-    "presentaciones/slides/pages/multiple-entries.md",
-    "presentaciones/slides/README.md",
-    "contenido/01-Conceptos/Colecciones.md",
-    "contenido/01-Conceptos/Bucles.md",
-    "presentaciones/slidev/pages/multiple-entries.md",
-    "presentaciones/slidev/slides.md",
-    "presentaciones/slidev/README.md",
-    "organizacion/tracker.md",
-    "organizacion/objectivos.md",
-    "contenido/R2-Razonamientos/RazonamientoNim.md",
-    "contenido/R2-Razonamientos/RazonamientoIntro.md",
     "presentaciones/slidev/dist/assets/logo-title-horizontal-96c3c915.png",
     "presentaciones/slidev/dist/assets/logo-b72bde5d.png",
     "presentaciones/sesion1/dist/assets/logo-title-horizontal-96c3c915.png",

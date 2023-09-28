@@ -26,7 +26,7 @@ Una función en Java se declara con un tipo (que será el tipo de datos que devu
 > A lo largo de todo el curso de Programación 1 todas las funciones que vamos a escribir van a tener la palabra `static` delante. Esta palabra significa que la función pertenece a la clase. La mayoría de funciones que implementemos a partir de Programación 2 **NO** tendrán esta palabra y se explicará por qué, por ahora, los ejemplos van a incluirla por comodidad si se quiere probar el código, pero no es importante entender qué significa.
 
 ```java
-static int cuadrado (int numero){}
+static int cuadrado (int numero) {}
 ```
 
 Después, el cuerpo de la función, es decir el código, va entre llaves `{}`. En Java, no es necesario 'indentar' el código, o separar entre líneas. Cada bloque de código esta entre llaves para separarlo del resto, y cada instrucción acaba con un punto y coma `;`.

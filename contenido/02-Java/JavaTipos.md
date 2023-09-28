@@ -41,8 +41,9 @@ double d = 10 / 5;
 // Módulo
 int m = 170 % 3;
 // Suma 1
-n++;
-++n;
+int i = 0;
+System.out.println(i++); // print(0) y luego: i + 1 (i = 2)
+System.out.println(++i); // i + 1 (i = 3) y luego: print(3)
 // Suma de Strings
 String saludo = "Hola " + "Antonio"
 ```
